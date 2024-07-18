@@ -24,7 +24,7 @@
     <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/contacto"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/contact"/>
     <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/contact"/>
-    <xhtml:link rel="alternate" hreflang="us" href="equalsmoney.com/us/contact"/>
+    <xhtml:link rel="alternate" hreflang="us" href="https://equalsmoney.com/us/contact"/>
   </url>
   <url>
     <loc>https://equalsmoney.com/account-features/control-spend</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://equalsmoney.com/international-payments</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/payments/international-payments"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/international-payments"/>
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/paiements-internationaux"/>
     <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/pagos-internacionales"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/internationale-betalingen"/>
