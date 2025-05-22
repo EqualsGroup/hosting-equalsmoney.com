@@ -1,0 +1,5226 @@
+[
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "individual",
+    "Default purpose": "Payment to family",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "individual",
+    "Default purpose": "Payment to friends",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "individual",
+    "Default purpose": "Personal payment",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "business, charity",
+    "Default purpose": "Paying an invoice",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "business, charity",
+    "Default purpose": "Paying a supplier",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "business, charity",
+    "Default purpose": "Paying a salary",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "business, charity",
+    "Default purpose": "Withdrawal of funds",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "business, charity",
+    "Default purpose": "Commission",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "any",
+    "Default purpose": "Payment to own account",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "other",
+    "isoCurrency": "other",
+    "Recipient type": "any",
+    "Default purpose": "Other",
+    "Additional purpose": "",
+    "Default purpose code": ""
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Import or export",
+    "Additional purpose": "Goods sold - exports in free on board (FOB) value",
+    "Default purpose code": "GDE"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Import or export",
+    "Additional purpose": "Goods bought - imports in cost, insurance and freight (CIF) value",
+    "Default purpose code": "GDI"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transport and travel",
+    "Additional purpose": "Sea transport",
+    "Default purpose code": "STS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transport and travel",
+    "Additional purpose": "Air transport",
+    "Default purpose code": "ATS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transport and travel",
+    "Additional purpose": "Other methods of transport (including postal and courier services)",
+    "Default purpose code": "OTS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transport and travel",
+    "Additional purpose": "Travel",
+    "Default purpose code": "STR"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Processing repair and maintenance services on goods",
+    "Default purpose code": "GMS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Construction",
+    "Default purpose code": "SCO"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Insurance services",
+    "Default purpose code": "INS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Financial services",
+    "Default purpose code": "FIS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Charges for the use of intellectual property royalties",
+    "Default purpose code": "IPC"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Telecommunications services",
+    "Default purpose code": "TCS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Computer services",
+    "Default purpose code": "ITS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Information services",
+    "Default purpose code": "IFS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Research and development services",
+    "Default purpose code": "RDS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Professional and management consulting services",
+    "Default purpose code": "PMS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Technical, trade-related and other business services",
+    "Default purpose code": "TTS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services with abroad",
+    "Additional purpose": "Personal, cultural, audiovisual and recreational services",
+    "Default purpose code": "PRS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Dividends intragroup",
+    "Default purpose code": "IGD"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Interest on debt intragroup",
+    "Default purpose code": "IID"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Profits on Islamic products",
+    "Default purpose code": "PIP"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Profits or rents on real estate",
+    "Default purpose code": "PRR"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Dividends on equity not intragroup",
+    "Default purpose code": "DOE"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Income on investment funds shares",
+    "Default purpose code": "ISH"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Interest on securities more than a year",
+    "Default purpose code": "ISL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Interest on securities less than a year",
+    "Default purpose code": "ISS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Income on loans",
+    "Default purpose code": "IOL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest and profits with abroad",
+    "Additional purpose": "Income on deposits",
+    "Default purpose code": "IOD"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Government",
+    "Additional purpose": "Government goods and services embassies etc.",
+    "Default purpose code": "GOS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Government",
+    "Additional purpose": "Government related income taxes, tariffs, capital transfers, etc.",
+    "Default purpose code": "GRI"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Charitable contributions (charity and aid)",
+    "Default purpose code": "CHC"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Family support (workers\u2019 remittances)",
+    "Default purpose code": "FAM"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Salary (compensation of employees)",
+    "Default purpose code": "SAL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Purchase of real estate abroad from residents",
+    "Default purpose code": "PPA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Purchase of real estate in Bahrain from non-residents",
+    "Default purpose code": "PPL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Foreign Direct Investment (FDI) flows: acquisition and liquidation by residents of equity and securities abroad (above 10% share)",
+    "Additional purpose": "Equity and investment fund shares for the establishment of new company from residents abroad, equity of merger or acquisition of companies abroad from residents and participation to capital increase of related companies abroad",
+    "Default purpose code": "CEA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Foreign Direct Investment (FDI) flows: acquisition and liquidation by residents of equity and securities abroad (above 10% share)",
+    "Additional purpose": "Debt instruments intragroup foreign securities",
+    "Default purpose code": "DSF"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Foreign Direct Investment (FDI) flows: acquisition and liquidation by residents of equity and securities abroad (above 10% share)",
+    "Additional purpose": "Reverse equity share in Bahrain",
+    "Default purpose code": "REL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Foreign Direct Investment (FDI) flows: acquisition and liquidation by residents of equity and securities abroad (above 10% share)",
+    "Additional purpose": "Reverse debt instruments in Bahrain",
+    "Default purpose code": "RDL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities abroad (below 10% share)",
+    "Additional purpose": "Equity other than investment fund shares in not related companies abroad",
+    "Default purpose code": "FSA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities abroad (below 10% share)",
+    "Additional purpose": "Investment fund shares foreign",
+    "Default purpose code": "FIA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities abroad (below 10% share)",
+    "Additional purpose": "Purchases and sales of foreign debt securities in not related companies (less than a year)",
+    "Default purpose code": "DSA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities abroad (below 10% share)",
+    "Additional purpose": "Purchases and sales of foreign debt securities in not related companies (more than a year)",
+    "Default purpose code": "DLA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities abroad (below 10% share)",
+    "Additional purpose": "Financial derivatives foreign",
+    "Default purpose code": "FDA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Debt instruments intragroup loans, deposits foreign (above 10% share)",
+    "Default purpose code": "DLF"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Receipts or payments from personal residents bank account or deposits abroad",
+    "Default purpose code": "AFA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Loans: drawings or repayments on loans extended to non-residents (short-term)",
+    "Default purpose code": "SLA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Loans: drawings or repayments on loans extended to non-residents (long-term)",
+    "Default purpose code": "LLA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Leasing abroad",
+    "Default purpose code": "LEA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Repos on foreign securities",
+    "Default purpose code": "RFS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by residents of loans and deposits abroad",
+    "Additional purpose": "Trade credits and advances receivable",
+    "Default purpose code": "TCR"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "FDI flows: acquisition and liquidation by residents of equity and securities in Bahrain (above 10% share)",
+    "Additional purpose": "Equity and investment fund shares for the establishment of new company in Bahrain from non-residents, equity of merger or acquisition of companies in Bahrain from non-residents and participation to capital increase of related companies from non-residents in Bahrain",
+    "Default purpose code": "CEL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "FDI flows: acquisition and liquidation by residents of equity and securities in Bahrain (above 10% share)",
+    "Additional purpose": "Debt instruments intragroup securities in Bahrain",
+    "Default purpose code": "LDS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "FDI flows: acquisition and liquidation by residents of equity and securities in Bahrain (above 10% share)",
+    "Additional purpose": "Reverse equity share abroad",
+    "Default purpose code": "REA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "FDI flows: acquisition and liquidation by residents of equity and securities in Bahrain (above 10% share)",
+    "Additional purpose": "Reverse debt instruments abroad",
+    "Default purpose code": "RDA"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities in Bahrain (below 10% share)",
+    "Additional purpose": "Equity other than investment fund shares in not related companies in Bahrain",
+    "Default purpose code": "FSL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities in Bahrain (below 10% share)",
+    "Additional purpose": "Investment fund shares in Bahrain",
+    "Default purpose code": "FIL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities in Bahrain (below 10% share)",
+    "Additional purpose": "Purchases and sales of securities issued by residents in not related companies (less than a year)",
+    "Default purpose code": "DSL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities in Bahrain (below 10% share)",
+    "Additional purpose": "Purchases and sales of securities issued by residents in not related companies (more than a year)",
+    "Default purpose code": "DLL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Portfolio investment flows: acquisition and liquidation by residents of equity and securities in Bahrain (below 10% share)",
+    "Additional purpose": "Financial derivatives in Bahrain",
+    "Default purpose code": "FDL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Debt instruments intragroup loans, deposits in Bahrain (above 10% share)",
+    "Default purpose code": "LDL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Receipts or payments from personal non-residents bank account in Bahrain",
+    "Default purpose code": "AFL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Loans: drawings or repayments on foreign loans extended to residents (short-term)",
+    "Default purpose code": "SLL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Loans: drawings or repayments on foreign loans extended to residents (long-term)",
+    "Default purpose code": "LLL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Leasing in Bahrain",
+    "Default purpose code": "LEL"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Repos on securities issued by residents",
+    "Default purpose code": "RLS"
+  },
+  {
+    "isoCountry": "BH",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Lending: repayments and transfers by non-residents of loans and deposits in Bahrain",
+    "Additional purpose": "Trade credits and advances payable",
+    "Default purpose code": "TCP"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Audit, accounting and tax consulting",
+    "Default purpose code": "47135"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "IT services",
+    "Default purpose code": "47025"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Engineering and architecture services",
+    "Default purpose code": "47070"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Health services",
+    "Default purpose code": "47733"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Legal services",
+    "Default purpose code": "47128"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Business and public relations consulting services",
+    "Default purpose code": "47142"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Education services",
+    "Default purpose code": "47719"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "business, charity",
+    "Default purpose": "Services",
+    "Additional purpose": "Tourism services",
+    "Default purpose code": "47740"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "business, charity",
+    "Default purpose": "Services",
+    "Additional purpose": "Sea transportation",
+    "Default purpose code": "22136"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Other technical, professional and administrative services",
+    "Default purpose code": "47197"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "business, charity",
+    "Default purpose": "Import of goods",
+    "Additional purpose": "Importation payment",
+    "Default purpose code": "12005"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "individual",
+    "Default purpose": "Transfer to own remitter account in Brazil",
+    "Additional purpose": "Transfer to own remitter account in Brazil",
+    "Default purpose code": "67500"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Donation",
+    "Additional purpose": "Donation",
+    "Default purpose code": "37080"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "individual",
+    "Default purpose": "Family support",
+    "Additional purpose": "Student family support",
+    "Default purpose code": "37011"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "individual",
+    "Default purpose": "Family support",
+    "Additional purpose": "Resident family support",
+    "Default purpose code": "37004"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Purchase of a property or goods",
+    "Additional purpose": "Purchase of a property in Brazil",
+    "Default purpose code": "72911"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Purchase of a property or goods",
+    "Additional purpose": "Acquisition of goods delivered in Brazil",
+    "Default purpose code": "72904"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Purchase of a property or goods",
+    "Additional purpose": "Commissions or expenses on trade transactions",
+    "Default purpose code": "47609"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Other purposes",
+    "Additional purpose": "Letting",
+    "Default purpose code": "47915"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "any",
+    "Default purpose": "Other purposes",
+    "Additional purpose": "Other current transfers, including reimbursement of expenses up to 3,000.00 USD",
+    "Default purpose code": "37107"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "BRL",
+    "Recipient type": "individual",
+    "Default purpose": "Other purposes",
+    "Additional purpose": "Salary and other compensation",
+    "Default purpose code": "47908"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Trade settlement for goods",
+    "Additional purpose": "Sale or purchase of goods, import or export of goods, procurement of goods, letter of credit or documentary collection related to goods trade, prepayment of goods, etc.",
+    "Default purpose code": "CGODDR"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Trade settlement for goods",
+    "Additional purpose": "Partial return of trade settlement for goods",
+    "Default purpose code": "CGODDR/PART"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Trade settlement for goods",
+    "Additional purpose": "Cancellation of trade settlement for goods",
+    "Default purpose code": "CGODDR/RETN"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Trade settlement for services",
+    "Additional purpose": "Public utility, rent, audit fee, hotel and accommodation fee, legal fee, advertising and promotion fee, copyright and license fee, wages, service contract fee, design fee, research and development fee, registration fee, medical expenses, etc.",
+    "Default purpose code": "CSTRDR"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Trade settlement for services",
+    "Additional purpose": "Partial return of trade settlement for services",
+    "Default purpose code": "CSTRDR/PART"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Trade settlement for services",
+    "Additional purpose": "Cancellation of trade settlement for services",
+    "Default purpose code": "CSTRDR/RETN"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Payment to current account",
+    "Additional purpose": "Dividend payment, profit distribution, tax payment, scholarships, etc.",
+    "Default purpose code": "COCADR"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Payment to current account",
+    "Additional purpose": "Cancellation of payment to current account",
+    "Default purpose code": "COCADR/RETN"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Payment to capital account",
+    "Additional purpose": "Capital injection, capital reduction, capital payment, investment, shareholder loan, non-trade fund transfer, other capital payments as approved by relevant regulatory authorities",
+    "Default purpose code": "CCTFDR"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Payment to capital account",
+    "Additional purpose": "Partial return of payment to capital account",
+    "Default purpose code": "CCTFDR/PART"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Payment to capital account",
+    "Additional purpose": "Cancellation of payment to capital account",
+    "Default purpose code": "CCTFDR/RETN"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Charity donation",
+    "Additional purpose": "Charity donation",
+    "Default purpose code": "CCDNDR"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "CNY",
+    "Recipient type": "any",
+    "Default purpose": "Charity donation",
+    "Additional purpose": "Cancellation of charity donation",
+    "Default purpose code": "CCDNDR/RETN"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Repatriation of Indian investment abroad in equity capital (shares)",
+    "Default purpose code": "P0001"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Repatriation of Indian investment abroad in debt securities",
+    "Default purpose code": "P0002"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Repatriation of Indian investment abroad in branches",
+    "Default purpose code": "P0003"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Repatriation of Indian investment abroad in subsidiaries and associates",
+    "Default purpose code": "P0004"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Repatriation of Indian investment abroad in real estate",
+    "Default purpose code": "P0005"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Foreign direct investment in India in equity",
+    "Default purpose code": "P0006"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Foreign direct investment in India in debt securities",
+    "Default purpose code": "P0007"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Foreign direct investment in India in real estate",
+    "Default purpose code": "P0008"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Foreign portfolio investment in India in equity shares",
+    "Default purpose code": "P0009"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Foreign portfolio investment in India in debt securities including debt funds",
+    "Default purpose code": "P0010"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Repayment of loans extended to non-residents",
+    "Default purpose code": "P0011"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Loans from non-residents to India",
+    "Default purpose code": "P0012"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Receipts o/a non-resident deposits (Foreign Currency Non-Resident Account, Non-Resident External Rupee Account etc.) ADs should report these even if funds are not swapped into Rupees",
+    "Default purpose code": "P0014"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Loans and overdrafts taken by ADs on their own account (any amount of loan credited to the NOSTRO account which may not be swapped into Rupees should also be reported)",
+    "Default purpose code": "P0015"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Purchase of a foreign currency against another currency",
+    "Default purpose code": "P0016"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Sale of intangible assets like patents, copyrights, trade marks etc. by Indian companies",
+    "Default purpose code": "P0017"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Capital account",
+    "Additional purpose": "Other capital receipts not included elsewhere",
+    "Default purpose code": "P0018"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Value of export bills negotiated, purchased or discounted etc. (covered under GR/PP/SOFTEX/EC copy of shipping bills etc.)",
+    "Default purpose code": "P0101"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Realisation of export bills (in respect of goods) sent on collection (full invoice value)",
+    "Default purpose code": "P0102"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Advance receipts against export contracts (export of goods only)",
+    "Default purpose code": "P0103"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Receipts against export of goods not covered by the GR/PP/SOFTEX/EC copy of shipping bill etc.",
+    "Default purpose code": "P0104"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Export bills (in respect of goods) sent on collection",
+    "Default purpose code": "P0105"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Conversion of overdue export bills from NPD to collection mode",
+    "Default purpose code": "P0106"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Exports (of goods)",
+    "Additional purpose": "Realisation of NPD export bills (full value of bill to be reported)",
+    "Default purpose code": "P0107"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Receipts of surplus freight/passenger fare by Indian shipping companies operating abroad",
+    "Default purpose code": "P0201"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Purchases on account of operating expenses of Foreign shipping companies operating in India",
+    "Default purpose code": "P0202"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Purchases on account of operational leasing (with crew) - shipping companies",
+    "Default purpose code": "P0205"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Receipts of surplus freight/passenger fare by Indian airlines companies operating abroad",
+    "Default purpose code": "P0207"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Receipt on account of operating expenses of foreign airlines companies operating in India",
+    "Default purpose code": "P0208"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Purchases on account of operational leasing (with crew) - airlines companies",
+    "Default purpose code": "P0211"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transportation",
+    "Additional purpose": "Receipts on account of other transportation services (stevedoring, demurrage, port handling charges, etc.)",
+    "Default purpose code": "P0213"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Purchases towards travel (includes purchases of foreign travellers cheques, currency notes over the counter, by hotels, hospitals, emporiums, educational institutions, etc. as well as amount received by Telegraphic Transfer/SWIFT transfers or debit)",
+    "Default purpose code": "P0301"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Foreign currency surrendered by returning Indian tourists",
+    "Default purpose code": "P0308"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Communication service",
+    "Additional purpose": "Postal services",
+    "Default purpose code": "P0401 "
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Communication service",
+    "Additional purpose": "Courier services",
+    "Default purpose code": "P0402"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Communication service",
+    "Additional purpose": "Telecommunication services",
+    "Default purpose code": "P0403"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Communication service",
+    "Additional purpose": "Satellite services",
+    "Default purpose code": "P0404"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Construction service",
+    "Additional purpose": "Receipts for cost of construction of services projects in India",
+    "Default purpose code": "P0501"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Insurance service",
+    "Additional purpose": "Receipts of life insurance premium",
+    "Default purpose code": "P0601"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Insurance service",
+    "Additional purpose": "Receipts of freight insurance relating to import and export of goods",
+    "Default purpose code": "P0602"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Insurance service",
+    "Additional purpose": "Receipts on account of other general insurance premium",
+    "Default purpose code": "P0603"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Insurance service",
+    "Additional purpose": "Receipts of reinsurance premium",
+    "Default purpose code": "P0604"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Insurance service",
+    "Additional purpose": "Receipts on account of auxiliary services (commission on insurance)",
+    "Default purpose code": "P0605"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Insurance service",
+    "Additional purpose": "Receipts on account of settlement of claims",
+    "Default purpose code": "P0606"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Financial intermediation except investment banking - bank charges, collection charges, letter of credit charges, cancellation of forward contracts, commission on financial leasing, etc.",
+    "Default purpose code": "P0701"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Investment banking: brokerage, underwriting commission, etc.",
+    "Default purpose code": "P0702"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Auxiliary services: charges on operation and regulatory fees, custodial services, depository services, etc.",
+    "Default purpose code": "P0703"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Computer and information services",
+    "Additional purpose": "Hardware consultancy",
+    "Default purpose code": "P0801"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Computer and information services",
+    "Additional purpose": "Software implementation or consultancy (other than those covered in SOFTEX form)",
+    "Default purpose code": "P0802"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Computer and information services",
+    "Additional purpose": "Database data processing charges",
+    "Default purpose code": "P0803"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Computer and information services",
+    "Additional purpose": "Repair and maintenance of computer and software",
+    "Default purpose code": "P0804"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Computer and information services",
+    "Additional purpose": "News agency services",
+    "Default purpose code": "P0805"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Computer and information services",
+    "Additional purpose": "Other information services: subscription to newspapers, periodicals, etc.",
+    "Default purpose code": "P0806"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Royalties and license fees",
+    "Additional purpose": "Franchises services: patents, copyrights, trade marks, industrial processes, franchises, etc.",
+    "Default purpose code": "P0901"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Royalties and license fees",
+    "Additional purpose": "Receipts for use, through licensing arrangements, of produced originals or prototypes (such as manuscripts and films)",
+    "Default purpose code": "P0902"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Merchanting services: net receipts (from sale and purchase of goods without crossing the border)",
+    "Default purpose code": "P1001"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Trade related services: commission on exports or imports",
+    "Default purpose code": "P1002"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Operational leasing services (other than financial leasing and without operating crew) including charter hire",
+    "Default purpose code": "P1003"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Legal services",
+    "Default purpose code": "P1004"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Accounting, auditing, bookkeeping and tax consulting services",
+    "Default purpose code": "P1005"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Business and management consultancy and public relations services",
+    "Default purpose code": "P1006"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Advertising, trade fair, market research and public opinion polling services",
+    "Default purpose code": "P1007"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Research and development services",
+    "Default purpose code": "P1008"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Architectural, engineering and other technical services",
+    "Default purpose code": "P1009"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Agricultural, mining and on-site processing services: protection against insects and disease, increasing of harvest yields, forestry services, mining services like analysis of ores etc.",
+    "Default purpose code": "P1010"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Inward remittance for maintenance of offices in India",
+    "Default purpose code": "P1011"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Distribution services",
+    "Default purpose code": "P1012"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Environmental services",
+    "Default purpose code": "P1013"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Other business services",
+    "Additional purpose": "Other services not included elsewhere",
+    "Default purpose code": "P1019"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Personal, cultural and recreational services",
+    "Additional purpose": "Audio-visual and related services: services and associated fees related to production of motion pictures, rentals, fees received by actors, directors, producers and fees for distribution rights",
+    "Default purpose code": "P1101"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Personal, cultural and recreational services",
+    "Additional purpose": "Personal, cultural services such as those related to museums, libraries, archives and sporting activities and fees for correspondence courses of Indian universities or institutes",
+    "Default purpose code": "P1102"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Government (not included elsewhere)",
+    "Additional purpose": "Maintenance of foreign embassies in India",
+    "Default purpose code": "P1201"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Government (not included elsewhere)",
+    "Additional purpose": "Maintenance of international institutions such as offices of IMF mission, World Bank, UNICEF, etc. in India",
+    "Default purpose code": "P1203"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transfers",
+    "Additional purpose": "Inward remittance from Indian non-residents towards family maintenance and savings",
+    "Default purpose code": "P1301"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transfers",
+    "Additional purpose": "Personal gifts and donations",
+    "Default purpose code": "P1302"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transfers",
+    "Additional purpose": "Donations to religious and charitable institutions in India",
+    "Default purpose code": "P1303"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transfers",
+    "Additional purpose": "Grants and donations to governments and charitable institutions established by the governments",
+    "Default purpose code": "P1304"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Transfers",
+    "Additional purpose": "Receipts or refund of taxes",
+    "Default purpose code": "P1306"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Income",
+    "Additional purpose": "Compensation of employees",
+    "Default purpose code": "P1401"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Income",
+    "Additional purpose": "Inward remittance towards interest on loans extended to non-residents (short term, medium term or long term loans)",
+    "Default purpose code": "P1403"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Income",
+    "Additional purpose": "Inward remittance of interest on debt securities: debentures, bonds, FRNs, etc.",
+    "Default purpose code": "P1404"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Income",
+    "Additional purpose": "Inward remittance towards interest receipts of ADs on their own account (on investments)",
+    "Default purpose code": "P1405"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Income",
+    "Additional purpose": "Repatriation of profits to India",
+    "Default purpose code": "P1406"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Income",
+    "Additional purpose": "Receipt of dividends by Indians",
+    "Default purpose code": "P1407"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Others",
+    "Additional purpose": "Refunds or rebates on account of imports",
+    "Default purpose code": "P1501"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Others",
+    "Additional purpose": "Reversal of wrong entries, refunds of amount remitted for non-imports",
+    "Default purpose code": "P1502"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Others",
+    "Additional purpose": "Remittances (receipts) by residents under international bidding process",
+    "Default purpose code": "P1503"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "INR",
+    "Recipient type": "any",
+    "Default purpose": "Others",
+    "Additional purpose": "Receipts below 10,000 USD (say 500,000 INR)",
+    "Default purpose code": "P1590"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Invoice payment and purchase",
+    "Default purpose code": "0101"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Utility bill payment",
+    "Default purpose code": "0102"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Prepaid cards recharging",
+    "Default purpose code": "0103"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Standing orders",
+    "Default purpose code": "0104"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Personal donations",
+    "Default purpose code": "0105"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Family assistance and expenses",
+    "Default purpose code": "0106"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Individual social security subscription",
+    "Default purpose code": "0107"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Associations subscriptions",
+    "Default purpose code": "0108"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Saving and funding account",
+    "Default purpose code": "0109"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "Heritance",
+    "Default purpose code": "0110"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal",
+    "Additional purpose": "End of service indemnity",
+    "Default purpose code": "0111"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Public sector employees salaries",
+    "Default purpose code": "0201"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Laborers salaries",
+    "Default purpose code": "0202"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Private sector staff salaries",
+    "Default purpose code": "0203"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Jordanian diplomatic staff salaries",
+    "Default purpose code": "0204"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Foreign diplomatic salaries",
+    "Default purpose code": "0205"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Overseas incoming salaries",
+    "Default purpose code": "0206"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Civil or military retirement salaries",
+    "Default purpose code": "0207"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Social security retirement salaries",
+    "Default purpose code": "0208"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Salaries and wages",
+    "Additional purpose": "Establishment social security subscription",
+    "Default purpose code": "0209"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "Investment revenues",
+    "Default purpose code": "0301"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "Brokerage investment",
+    "Default purpose code": "0302"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "Insurance",
+    "Default purpose code": "0303"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "Subscriptions to international nonmonetary organizations",
+    "Default purpose code": "0304"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "Local investment",
+    "Default purpose code": "0305"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "External investment",
+    "Default purpose code": "0306"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment remittances",
+    "Additional purpose": "Tender bond guarantee",
+    "Default purpose code": "0307"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transportation and tourism",
+    "Additional purpose": "Air freight",
+    "Default purpose code": "0401"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transportation and tourism",
+    "Additional purpose": "Land freight",
+    "Default purpose code": "0402"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transportation and tourism",
+    "Additional purpose": "Sea freight",
+    "Default purpose code": "0403"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transportation and tourism",
+    "Additional purpose": "Travel and tourism",
+    "Default purpose code": "0404"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Training and delegation",
+    "Additional purpose": "Governmental delegation transfers",
+    "Default purpose code": "0501"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Training and delegation",
+    "Additional purpose": "Private sector delegation transfers",
+    "Default purpose code": "0502"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Training and delegation",
+    "Additional purpose": "Governmental education",
+    "Default purpose code": "0503"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Training and delegation",
+    "Additional purpose": "Private sector education",
+    "Default purpose code": "0504"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Import and export",
+    "Additional purpose": "Public sector exportation",
+    "Default purpose code": "0601"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Import and export",
+    "Additional purpose": "Private sector exportation",
+    "Default purpose code": "0602"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Import and export",
+    "Additional purpose": "Public sector importation",
+    "Default purpose code": "0603"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Import and export",
+    "Additional purpose": "Private sector importation",
+    "Default purpose code": "0604"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "External aid",
+    "Additional purpose": "Religious communities aid",
+    "Default purpose code": "0701"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "External aid",
+    "Additional purpose": "International communities aid",
+    "Default purpose code": "0702"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "External aid",
+    "Additional purpose": "Arab communities aid",
+    "Default purpose code": "0703"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "External aid",
+    "Additional purpose": "UN aid",
+    "Default purpose code": "0704"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "External aid",
+    "Additional purpose": "Charity communities aid",
+    "Default purpose code": "0705"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Telecommunication services",
+    "Default purpose code": "0801"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Financial services",
+    "Default purpose code": "0802"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Information Technology services",
+    "Default purpose code": "0803"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Consulting services",
+    "Default purpose code": "0804"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Construction services",
+    "Default purpose code": "0805"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Maintenance and assembling services",
+    "Default purpose code": "0806"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Marketing and media services",
+    "Default purpose code": "0807"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Mining services",
+    "Default purpose code": "0808"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Medical and health services",
+    "Default purpose code": "0809"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Cultural, educational and entertainment services",
+    "Default purpose code": "0810"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Rental expenses",
+    "Default purpose code": "0811"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Real estate",
+    "Default purpose code": "0812"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Taxes",
+    "Default purpose code": "0813"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Fees",
+    "Default purpose code": "0814"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Commissions",
+    "Default purpose code": "0815"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Franchise and license fees",
+    "Default purpose code": "0816"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Cheque collection",
+    "Default purpose code": "0817"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Services",
+    "Additional purpose": "Membership fees",
+    "Default purpose code": "0818"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Funding",
+    "Additional purpose": "Municipality funds",
+    "Default purpose code": "0901"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Funding",
+    "Additional purpose": "Government funds",
+    "Default purpose code": "0902"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Funding",
+    "Additional purpose": "Private sector funds",
+    "Default purpose code": "0903"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Funding",
+    "Additional purpose": "External incoming funds",
+    "Default purpose code": "0904"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Diplomacy",
+    "Additional purpose": "International communities and embassies remittances",
+    "Default purpose code": "1001"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Diplomacy",
+    "Additional purpose": "Permanent diplomatic missions",
+    "Default purpose code": "1002"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Diplomacy",
+    "Additional purpose": "Temporary diplomatic missions",
+    "Default purpose code": "1003"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Diplomacy",
+    "Additional purpose": "Jordanian embassies income",
+    "Default purpose code": "1004"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Long-term loans installments (public sector)",
+    "Default purpose code": "1101"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Long-term loans interest installments (public sector)",
+    "Default purpose code": "1102"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Short-term loans installments (public sector)",
+    "Default purpose code": "1103"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Short-term loans interest installments (public sector)",
+    "Default purpose code": "1104"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Long-term loans installments (private sector)",
+    "Default purpose code": "1105"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Long-term loans interest installments (public sector)",
+    "Default purpose code": "1106"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Short-term loans installments (private sector)",
+    "Default purpose code": "1107"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Short-term loans interest installments (private sector)",
+    "Default purpose code": "1108"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Loans installments against governmental guarantee",
+    "Default purpose code": "1109"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Loans interest installments against governmental guarantee",
+    "Default purpose code": "1110"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Credit card payment",
+    "Default purpose code": "1111"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans",
+    "Additional purpose": "Personal loan payment",
+    "Default purpose code": "1112"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "General",
+    "Additional purpose": "Rerouting",
+    "Default purpose code": "1201"
+  },
+  {
+    "isoCountry": "JO",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "General",
+    "Additional purpose": "Scientific research support",
+    "Default purpose code": "1202"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Free on board (FOB) imports and exports",
+    "Default purpose code": "100"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Cost and freight (CFR) imports and exports",
+    "Default purpose code": "110"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Cost, insurance and freight (CIF) terms imports and exports",
+    "Default purpose code": "120"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Ex works (EXW), free carrier arranged (FCA),\nfree alongside ship (FAS) imports and exports",
+    "Default purpose code": "125"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Imports and exports of goods traded on other Incoterms: carriage paid to (CPT), carriage and insurance paid to (CIP), delivered ex ship (DES), delivered ex quay (DEQ), delivery duty unpaid (DDU), delivery duty unpaid (DDP) and delivered at frontier (DAF)",
+    "Default purpose code": "130"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Advance payments in respect of free on board (FOB) import and export transactions",
+    "Default purpose code": "132"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Down-payments in respect of CFR (cost and freight) import and export transactions",
+    "Default purpose code": "134"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Down-payments in respect of CIF (cost, insurance and freight terms) import and export transactions",
+    "Default purpose code": "136"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Payment in advance of imports",
+    "Default purpose code": "138"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Toll operations (added value)",
+    "Default purpose code": "140"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Goods repairs",
+    "Default purpose code": "150"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Industrial (non-monetary) gold",
+    "Default purpose code": "160"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Reimbursement of proceeds from the collection of export-based receivables",
+    "Default purpose code": "170"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "International trade",
+    "Default purpose code": "180"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Goods",
+    "Additional purpose": "Commercial retrocessions",
+    "Default purpose code": "190"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International transport of goods",
+    "Additional purpose": "Maritime freight transport",
+    "Default purpose code": "200"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International transport of goods",
+    "Additional purpose": "Air freight transport",
+    "Default purpose code": "210"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International transport of goods",
+    "Additional purpose": "Road freight transport",
+    "Default purpose code": "220"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International transport of goods",
+    "Additional purpose": "Rail freight transport",
+    "Default purpose code": "230"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International transport of goods",
+    "Additional purpose": "Transport by gas pipeline",
+    "Default purpose code": "235"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International passenger transport",
+    "Additional purpose": "Maritime passenger transport",
+    "Default purpose code": "240"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International passenger transport",
+    "Additional purpose": "Air passenger transport",
+    "Default purpose code": "250"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International passenger transport",
+    "Additional purpose": "Road passenger transport",
+    "Default purpose code": "260"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International passenger transport",
+    "Additional purpose": "Rail passenger transport",
+    "Default purpose code": "270"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "International passenger transport",
+    "Additional purpose": "Removals",
+    "Default purpose code": "280"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Goods insurance",
+    "Default purpose code": "300"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Insurance other than goods insurance",
+    "Default purpose code": "310"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Reinsurance operations",
+    "Default purpose code": "320"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Cash claims",
+    "Default purpose code": "322"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Insurance settlements",
+    "Default purpose code": "330"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Ancillary insurance costs",
+    "Default purpose code": "340"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Insurance",
+    "Additional purpose": "Life insurance",
+    "Default purpose code": "350"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Tourism",
+    "Default purpose code": "400"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Medical care",
+    "Default purpose code": "410"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Pilgrimage",
+    "Default purpose code": "420"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Umrah",
+    "Default purpose code": "430"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Tuition fees",
+    "Default purpose code": "440"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Students\u2019 living expenses",
+    "Default purpose code": "441"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Rents",
+    "Default purpose code": "442"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Students\u2019 purchase of computer equipment",
+    "Default purpose code": "443"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Student internship expenses",
+    "Default purpose code": "444"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "Student loan repayment",
+    "Default purpose code": "445"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Building and public works services provided by foreign companies in Morocco",
+    "Default purpose code": "500"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Building and public works services provided by Moroccan companies abroad",
+    "Default purpose code": "505"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Administrative procurement",
+    "Default purpose code": "510"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Patent and licence leases",
+    "Default purpose code": "520"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Trademark use",
+    "Default purpose code": "530"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Private technical assistance",
+    "Default purpose code": "540"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Construction costs in Morocco",
+    "Default purpose code": "550"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Construction costs abroad",
+    "Default purpose code": "555"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "IT services",
+    "Default purpose code": "560"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Information services",
+    "Default purpose code": "570"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Royalties in respect of the exploitation of audio-visual products",
+    "Default purpose code": "580"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Research and development",
+    "Default purpose code": "585"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Consulting, advertising and market research services",
+    "Default purpose code": "590"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Business services",
+    "Additional purpose": "Various business, specialist and technical services",
+    "Default purpose code": "595"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Communication services",
+    "Additional purpose": "Postal services",
+    "Default purpose code": "600"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Communication services",
+    "Additional purpose": "Mail and courier services",
+    "Default purpose code": "610"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Communication services",
+    "Additional purpose": "Telecommunication services",
+    "Default purpose code": "620"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Communication services",
+    "Additional purpose": "Receipts from call centres",
+    "Default purpose code": "630"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural and leisure services",
+    "Additional purpose": "Services related to the production of films and radio and television programmes",
+    "Default purpose code": "700"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural and leisure services",
+    "Additional purpose": "Fees to artists and sportspeople",
+    "Default purpose code": "710"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural and leisure services",
+    "Additional purpose": "Literary, artistic or scientific prizes",
+    "Default purpose code": "715"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural and leisure services",
+    "Additional purpose": "Training services",
+    "Default purpose code": "720"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural and leisure services",
+    "Additional purpose": "Healthcare services",
+    "Default purpose code": "725"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural and leisure services",
+    "Additional purpose": "Other personal cultural and recreational services",
+    "Default purpose code": "730"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Services provided or received by public administrations",
+    "Additional purpose": "Moroccan diplomatic posts",
+    "Default purpose code": "800"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Services provided or received by public administrations",
+    "Additional purpose": "Diplomatic posts abroad",
+    "Default purpose code": "810"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Services provided or received by public administrations",
+    "Additional purpose": "Expenses of international organisations",
+    "Default purpose code": "820"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Services provided or received by public administrations",
+    "Additional purpose": "Operations of the National Defence Administration",
+    "Default purpose code": "830"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Services provided or received by public administrations",
+    "Additional purpose": "Other government operations",
+    "Default purpose code": "840"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Financial intermediation services",
+    "Default purpose code": "900"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Securities transaction services",
+    "Default purpose code": "910"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Other financial services",
+    "Default purpose code": "920"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Commissions related to the use of IMF resources",
+    "Default purpose code": "930"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "Bank guarantees",
+    "Default purpose code": "940"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Operating costs of trade branches and representative offices",
+    "Default purpose code": "1000"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Margin on international trading operations",
+    "Default purpose code": "1010"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Foreign trade related services",
+    "Default purpose code": "1020"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Commissions on exports of goods",
+    "Default purpose code": "1021"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Commissions on exports of services",
+    "Default purpose code": "1022"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Fishing rights and royalties",
+    "Default purpose code": "1030"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other services",
+    "Additional purpose": "Other royalties",
+    "Default purpose code": "1040"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Income from direct investments",
+    "Default purpose code": "1042"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Dividends and distributed profits",
+    "Default purpose code": "1100"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Repayment of advances on associates\u2019 current accounts",
+    "Default purpose code": "1110"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Rental income",
+    "Default purpose code": "1111"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Income from portfolio investments",
+    "Default purpose code": "1112"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Income from equity investments",
+    "Default purpose code": "1120"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Income from debt securities",
+    "Default purpose code": "1130"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Revenues",
+    "Additional purpose": "Interest on private loans and borrowings",
+    "Default purpose code": "1140"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Interest on public loans and borrowings",
+    "Additional purpose": "Interest on treasury loans and borrowings",
+    "Default purpose code": "1150"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Interest on public loans and borrowings",
+    "Additional purpose": "Interest on loans and borrowings by state enterprises and institutions",
+    "Default purpose code": "1160"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Income from investments in the financial sector",
+    "Additional purpose": "Income from investments of Bank Al-Maghrib",
+    "Default purpose code": "1170"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Income from investments in the financial sector",
+    "Additional purpose": "Income from investments by the financial sector other than other than insurance and reinsurance companies, Undertakings for Collective Investment in Transferable Securities (UCITS) and pension funds",
+    "Default purpose code": "1180"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Income from investments in the financial sector",
+    "Additional purpose": "Income from investments by insurance and reinsurance companies",
+    "Default purpose code": "1185"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Income from investments in the financial sector",
+    "Additional purpose": "Income from investments by undertakings for collective investment in transferable securities",
+    "Default purpose code": "1190"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Income from investments in the financial sector",
+    "Additional purpose": "Income from investments by pension funds",
+    "Default purpose code": "1195"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Savings on income",
+    "Default purpose code": "1200"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Pensions, retirement benefits and family allowances",
+    "Default purpose code": "1210"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Contributions to pension funds or provident schemes",
+    "Default purpose code": "1220"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Current transfers in the form of postal orders",
+    "Default purpose code": "1230"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Migrant transfers",
+    "Default purpose code": "1240"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Bequests and aid",
+    "Default purpose code": "1250"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Private donations",
+    "Default purpose code": "1260"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Public donations",
+    "Default purpose code": "1270"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Current transfers",
+    "Additional purpose": "Other current transfers",
+    "Default purpose code": "1280"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Direct investments",
+    "Default purpose code": "1300"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Portfolio investments",
+    "Default purpose code": "1310"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Portfolio investments by foreign investment funds",
+    "Default purpose code": "1315"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Advances on associates' current accounts",
+    "Default purpose code": "1320"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Real estate investments",
+    "Default purpose code": "1330"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Loans",
+    "Default purpose code": "1340"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Private sector commercial credits",
+    "Default purpose code": "1350"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Transactions on convertible term deposit accounts",
+    "Default purpose code": "1360"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Foreign investment and private loans in Morocco",
+    "Additional purpose": "Liquidation of French investments in Morocco",
+    "Default purpose code": "1370"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Investments made in Morocco by Moroccans residing abroad (MREs)",
+    "Additional purpose": "Direct MRE investments",
+    "Default purpose code": "1400"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Investments made in Morocco by Moroccans residing abroad (MREs)",
+    "Additional purpose": "MRE portfolio investments",
+    "Default purpose code": "1410"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Investments made in Morocco by Moroccans residing abroad (MREs)",
+    "Additional purpose": "Advances on MRE associates' current accounts",
+    "Default purpose code": "1420"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Investments made in Morocco by Moroccans residing abroad (MREs)",
+    "Additional purpose": "MRE real estate investments",
+    "Default purpose code": "1430"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Moroccan direct investments abroad",
+    "Default purpose code": "1500"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Portfolio investments abroad",
+    "Default purpose code": "1510"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Advances on associates' current accounts to non-residents",
+    "Default purpose code": "1520"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Loans granted to non-residents",
+    "Default purpose code": "1530"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Banking sector loans",
+    "Default purpose code": "1540"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Foreign investments by insurance and reinsurance companies",
+    "Default purpose code": "1550"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Foreign investments by Undertakings for Collective Investment in Transferable Securities (UCITS)",
+    "Default purpose code": "1555"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Foreign investments by pension funds",
+    "Default purpose code": "1560"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Export credits",
+    "Default purpose code": "1565"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Moroccan private investments and loans abroad",
+    "Additional purpose": "Stock options",
+    "Default purpose code": "1570"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Financial derivatives",
+    "Additional purpose": "Financial derivatives",
+    "Default purpose code": "1580"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Public sector financial transactions",
+    "Additional purpose": "Treasury loans",
+    "Default purpose code": "1600"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Public sector financial transactions",
+    "Additional purpose": "Local authority loans",
+    "Default purpose code": "1610"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Public sector financial transactions",
+    "Additional purpose": "State enterprise and institution loans",
+    "Default purpose code": "1620"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Public sector financial transactions",
+    "Additional purpose": "Participation of the Treasury or other state entities in the capital of international organisations",
+    "Default purpose code": "1630"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Accounts in convertible dirhams",
+    "Additional purpose": "Transactions on foreign accounts in convertible dirhams of foreign banks or financial institutions",
+    "Default purpose code": "1700"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Accounts in convertible dirhams",
+    "Additional purpose": "Transactions on foreign accounts in convertible dirhams of branches of Moroccan banks abroad or in offshore financial markets",
+    "Default purpose code": "1702"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Accounts in convertible dirhams",
+    "Additional purpose": "Transactions on foreign accounts in convertible dirhams of money transfer agencies",
+    "Default purpose code": "1704"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Accounts in convertible dirhams",
+    "Additional purpose": "Transactions on foreign accounts in convertible dirhams of foreign investment funds",
+    "Default purpose code": "1706"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Accounts in convertible dirhams",
+    "Additional purpose": "Transactions on foreign accounts in convertible dirhams of foreign clients",
+    "Default purpose code": "1710"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Accounts in convertible dirhams",
+    "Additional purpose": "Transactions on accounts in convertible dirhams of Moroccans residing abroad (MREs)",
+    "Default purpose code": "1720"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other transactions",
+    "Additional purpose": "Transactions on foreign banknotes",
+    "Default purpose code": "1800"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other transactions",
+    "Additional purpose": "Repatriations of PayPal funds",
+    "Default purpose code": "1810"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other transactions",
+    "Additional purpose": "Arbitrage",
+    "Default purpose code": "1900"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other transactions",
+    "Additional purpose": "Retrocessions on foreign private investments and loans",
+    "Default purpose code": "2000"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Other transactions",
+    "Additional purpose": "Other financial retrocessions",
+    "Default purpose code": "2010"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Sales of foreign currencies on the foreign exchange market by debiting a foreign currency account of an exporter",
+    "Default purpose code": "2100"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Purchases of foreign currencies on the foreign exchange market to credit the foreign currency account of an exporter",
+    "Default purpose code": "2102"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Debit of a foreign currency account of an exporter to credit a foreign currency account of the same exporter opened with a correspondent",
+    "Default purpose code": "2104"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Credit of the foreign currency account of an exporter by debiting a foreign currency account of the same exporter opened with a correspondent",
+    "Default purpose code": "2106"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Provision to a correspondent of currency from a foreign currency account of an exporter",
+    "Default purpose code": "2108"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Debit of a foreign currency account of an exporter to fund his accounts in convertible dirhams or in ordinary dirhams",
+    "Default purpose code": "2110"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Funding an account in convertible dirhams or ordinary dirhams by debiting the foreign currency account of an exporter",
+    "Default purpose code": "2112"
+  },
+  {
+    "isoCountry": "any",
+    "isoCurrency": "MAD",
+    "Recipient type": "any",
+    "Default purpose": "Special transactions on foreign currency accounts",
+    "Additional purpose": "Funding of foreign currency accounts of clients opened with offshore banks",
+    "Default purpose code": "2114"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Agency commissions",
+    "Additional purpose": "",
+    "Default purpose code": "ACM"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Advance payment against end of service",
+    "Additional purpose": "",
+    "Default purpose code": "AES"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Receipts or payments from personal residents bank account or deposits abroad",
+    "Additional purpose": "",
+    "Default purpose code": "AFA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Receipts or payments from personal non-resident bank account in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "AFL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Allowance",
+    "Additional purpose": "",
+    "Default purpose code": "ALW"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Air transport",
+    "Additional purpose": "",
+    "Default purpose code": "ATS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Bonus",
+    "Additional purpose": "",
+    "Default purpose code": "BON"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Corporate card payments",
+    "Additional purpose": "",
+    "Default purpose code": "CCP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Equity for establishment of new company from residents abroad equity of merger or acquisition of companies abroad from residents and participation to capital increase of related company abroad",
+    "Additional purpose": "",
+    "Default purpose code": "CEA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Equity for establishment of new company in UAE from non-residents equity of merger or acquisition of companies in the UAE from non-residents participation to capital increase of related",
+    "Additional purpose": "",
+    "Default purpose code": "CEL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Charitable contributions",
+    "Additional purpose": "",
+    "Default purpose code": "CHC"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Commercial investments",
+    "Additional purpose": "",
+    "Default purpose code": "CIN"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Commission",
+    "Additional purpose": "",
+    "Default purpose code": "COM"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Compensation",
+    "Additional purpose": "",
+    "Default purpose code": "COP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Debit card payments",
+    "Additional purpose": "",
+    "Default purpose code": "DCP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Debt instruments intra group loans securities deposits foreign",
+    "Additional purpose": "",
+    "Default purpose code": "DIF"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Debt instruments intra group loans securities deposits in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "DIL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Dividend payouts",
+    "Additional purpose": "",
+    "Default purpose code": "DIV"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Purchases and sales of foreign debt securities more than a year in the related companies",
+    "Additional purpose": "",
+    "Default purpose code": "DLA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Debt instruments intra group loans or deposits foreign (above 10% share)",
+    "Additional purpose": "",
+    "Default purpose code": "DLF"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Purchases and sales of securities issued by residents more than year in the related companies",
+    "Additional purpose": "",
+    "Default purpose code": "DLL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Dividends on equity not intra group",
+    "Additional purpose": "",
+    "Default purpose code": "DOE"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Purchases and sales of foreign debt securities less than a year in the related companies",
+    "Additional purpose": "",
+    "Default purpose code": "DSA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Purchases and sales of securities issued by residents less than year in the related companies",
+    "Additional purpose": "",
+    "Default purpose code": "DSL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Educational support",
+    "Additional purpose": "",
+    "Default purpose code": "EDU"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Equated monthly installments",
+    "Additional purpose": "",
+    "Default purpose code": "EMI"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "End of service or final settlement",
+    "Additional purpose": "",
+    "Default purpose code": "EOS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Financial derivatives foreign",
+    "Additional purpose": "",
+    "Default purpose code": "FDA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Financial derivatives in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "FDL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment fund shares foreign",
+    "Additional purpose": "",
+    "Default purpose code": "FIA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Investment fund shares in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "FIL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Financial services",
+    "Additional purpose": "",
+    "Default purpose code": "FIS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Equity other than investment fund shares in the related companies abroad",
+    "Additional purpose": "",
+    "Default purpose code": "FSA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Equity other than investment fund shares in the related companies in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "FSL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Goods sold - exports in free on board (FOB) value",
+    "Additional purpose": "",
+    "Default purpose code": "GDE"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Goods bought - imports in cost, insurance and freight (CIF) value",
+    "Additional purpose": "",
+    "Default purpose code": "GDI"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Goods bought or sold",
+    "Additional purpose": "",
+    "Default purpose code": "GDS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Processing repair and maintenance services on goods",
+    "Additional purpose": "",
+    "Default purpose code": "GMS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Government goods and services embassies etc.",
+    "Additional purpose": "",
+    "Default purpose code": "GOS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Government related income, taxes, tariffs, capital transfers, etc.",
+    "Additional purpose": "",
+    "Default purpose code": "GRI"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Information services",
+    "Additional purpose": "",
+    "Default purpose code": "IFS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Intra group dividends",
+    "Additional purpose": "",
+    "Default purpose code": "IGD"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Inter group transfer",
+    "Additional purpose": "",
+    "Default purpose code": "IGT"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Intra group interest on debt",
+    "Additional purpose": "",
+    "Default purpose code": "IID"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Insurance services",
+    "Additional purpose": "",
+    "Default purpose code": "INS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Income on deposits",
+    "Additional purpose": "",
+    "Default purpose code": "IOD"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Income on loans",
+    "Additional purpose": "",
+    "Default purpose code": "IOL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Charges for the use of intellectual property royalties",
+    "Additional purpose": "",
+    "Default purpose code": "IPC"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "IPO subscriptions",
+    "Additional purpose": "",
+    "Default purpose code": "IPO"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest rate swap payments",
+    "Additional purpose": "",
+    "Default purpose code": "IRP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest rate unwind payments",
+    "Additional purpose": "",
+    "Default purpose code": "IRW"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Income on investment funds shares",
+    "Additional purpose": "",
+    "Default purpose code": "ISH"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest on securities (more than a year)",
+    "Additional purpose": "",
+    "Default purpose code": "ISL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Interest on securities (less than a year)",
+    "Additional purpose": "",
+    "Default purpose code": "ISS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Computer services",
+    "Additional purpose": "",
+    "Default purpose code": "ITS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Leave salary",
+    "Additional purpose": "",
+    "Default purpose code": "LAS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Debt instruments intra group loans or deposits in the UAE (above 10% share)",
+    "Additional purpose": "",
+    "Default purpose code": "LDL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Debt instruments intra group securities in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "LDS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Leasing abroad",
+    "Additional purpose": "",
+    "Default purpose code": "LEA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Leasing in the UAE",
+    "Additional purpose": "",
+    "Default purpose code": "LEL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Loan interest payments",
+    "Additional purpose": "",
+    "Default purpose code": "LIP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans: drawings or repayments on loans extended to non-residents (long term)",
+    "Additional purpose": "",
+    "Default purpose code": "LLA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans: drawings or repayments on foreign loans to residents (long term)",
+    "Additional purpose": "",
+    "Default purpose code": "LLL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Loan charges",
+    "Additional purpose": "",
+    "Default purpose code": "LNC"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loan disbursements",
+    "Additional purpose": "",
+    "Default purpose code": "LND"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Monetary claim reimbursement",
+    "Additional purpose": "",
+    "Default purpose code": "MCR"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Mobile wallet card cash-ins",
+    "Additional purpose": "",
+    "Default purpose code": "MWI"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Mobile wallet card payments",
+    "Additional purpose": "",
+    "Default purpose code": "MWP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Other modes of transport",
+    "Additional purpose": "",
+    "Default purpose code": "OTS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Overtime",
+    "Additional purpose": "",
+    "Default purpose code": "OVT"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Pension",
+    "Additional purpose": "",
+    "Default purpose code": "PEN"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Profits on Islamic products",
+    "Additional purpose": "",
+    "Default purpose code": "PIP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Professional and management consulting services",
+    "Additional purpose": "",
+    "Default purpose code": "PMS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Refunds/reversals on IPO subscriptions",
+    "Additional purpose": "",
+    "Default purpose code": "POR"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "POS merchant settlement",
+    "Additional purpose": "",
+    "Default purpose code": "POS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Purchase of real estate abroad from residents",
+    "Additional purpose": "",
+    "Default purpose code": "PPA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Purchase of real estate in the UAE from non-residents",
+    "Additional purpose": "",
+    "Default purpose code": "PPL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Profit rate swap payments",
+    "Additional purpose": "",
+    "Default purpose code": "PRP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Profits or rents on real estate",
+    "Additional purpose": "",
+    "Default purpose code": "PRR"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Personal cultural audio visual and recreational services",
+    "Additional purpose": "",
+    "Default purpose code": "PRS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Profit rate unwind payments",
+    "Additional purpose": "",
+    "Default purpose code": "PRW"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Research and development services",
+    "Additional purpose": "",
+    "Default purpose code": "RDS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Repos on foreign securities",
+    "Additional purpose": "",
+    "Default purpose code": "RFS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Repos on securities issued by residents",
+    "Additional purpose": "",
+    "Default purpose code": "RLS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Rent payments",
+    "Additional purpose": "",
+    "Default purpose code": "RNT"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Salary advance",
+    "Additional purpose": "",
+    "Default purpose code": "SAA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Salary",
+    "Additional purpose": "",
+    "Default purpose code": "SAL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Construction",
+    "Additional purpose": "",
+    "Default purpose code": "SCO"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans: drawings or repayments on loans extended to non-residents (short term)",
+    "Additional purpose": "",
+    "Default purpose code": "SLA"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Loans: drawings or repayments on foreign loans extended to residents (short term)",
+    "Additional purpose": "",
+    "Default purpose code": "SLL"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Travel",
+    "Additional purpose": "",
+    "Default purpose code": "STR"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Sea transport",
+    "Additional purpose": "",
+    "Default purpose code": "STS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Stored value card cash in",
+    "Additional purpose": "",
+    "Default purpose code": "SVI"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Stored value card payment",
+    "Additional purpose": "",
+    "Default purpose code": "SVP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Tax payment",
+    "Additional purpose": "",
+    "Default purpose code": "TAX"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Trade credits and advances payable",
+    "Additional purpose": "",
+    "Default purpose code": "TCP"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Trade credits and advances receivable",
+    "Additional purpose": "",
+    "Default purpose code": "TCR"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Telecommunication services",
+    "Additional purpose": "",
+    "Default purpose code": "TCS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "individual",
+    "Default purpose": "Tickets",
+    "Additional purpose": "",
+    "Default purpose code": "TKT"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Transfer of funds between persons normal and juridical",
+    "Additional purpose": "",
+    "Default purpose code": "TOF"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "any",
+    "Default purpose": "Technical trade-related and other business services",
+    "Additional purpose": "",
+    "Default purpose code": "TTS"
+  },
+  {
+    "isoCountry": "AE",
+    "isoCurrency": "any",
+    "Recipient type": "business",
+    "Default purpose": "Utility bill payments",
+    "Additional purpose": "",
+    "Default purpose code": "UTL"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Income tax - resident individual",
+    "Additional purpose": "",
+    "Default purpose code": "3100"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Income tax - company",
+    "Additional purpose": "",
+    "Default purpose code": "3001"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Income tax - withholding",
+    "Additional purpose": "",
+    "Default purpose code": "3200"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Motor vehicle advance tax",
+    "Additional purpose": "",
+    "Default purpose code": "3304"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Monthly rental income tax",
+    "Additional purpose": "",
+    "Default purpose code": "3101"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Value Added Tax (VAT)",
+    "Additional purpose": "",
+    "Default purpose code": "3514"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Income tax - PAYE",
+    "Additional purpose": "",
+    "Default purpose code": "2901"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Stamp duty",
+    "Additional purpose": "",
+    "Default purpose code": "4103"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Standards levy",
+    "Additional purpose": "",
+    "Default purpose code": "3801"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "VAT - withholding",
+    "Additional purpose": "",
+    "Default purpose code": "3509"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Withholding rental income",
+    "Additional purpose": "",
+    "Default purpose code": "3103"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "State Department for Fisheries, Aquaculture and the Blue Economy",
+    "Additional purpose": "",
+    "Default purpose code": "4301"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Import duty - oil",
+    "Additional purpose": "",
+    "Default purpose code": "1001"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Import duty",
+    "Additional purpose": "",
+    "Default purpose code": "1002"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Alteration fee",
+    "Additional purpose": "",
+    "Default purpose code": "1501"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Customs warehouse rent",
+    "Additional purpose": "",
+    "Default purpose code": "1908"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Excise duty - oils",
+    "Additional purpose": "",
+    "Default purpose code": "1101"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Excise duty",
+    "Additional purpose": "",
+    "Default purpose code": "1102"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "VAT oils",
+    "Additional purpose": "",
+    "Default purpose code": "1201"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "VAT imports",
+    "Additional purpose": "",
+    "Default purpose code": "1202"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "VAT oils - 8%",
+    "Additional purpose": "",
+    "Default purpose code": "1206"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "IDF/Public Investment Fund (PIF) oil",
+    "Additional purpose": "",
+    "Default purpose code": "1802"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Merchant shipping superintendent (MSS) levy - oils",
+    "Additional purpose": "",
+    "Default purpose code": "6402"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Concession fees",
+    "Additional purpose": "",
+    "Default purpose code": "1518"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "IDF fees (2.0%)",
+    "Additional purpose": "",
+    "Default purpose code": "1801"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Transhipment fee",
+    "Additional purpose": "",
+    "Default purpose code": "1527"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Kenya Railway Development Levy (RDL) - oils",
+    "Additional purpose": "",
+    "Default purpose code": "6002"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Sale of single number plate",
+    "Additional purpose": "",
+    "Default purpose code": "6101"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Sale of pair of number plates",
+    "Additional purpose": "",
+    "Default purpose code": "6102"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Transfer fees for motor vehicle registration",
+    "Additional purpose": "",
+    "Default purpose code": "6301"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Registration fees",
+    "Additional purpose": "",
+    "Default purpose code": "1519"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Road safety fund",
+    "Additional purpose": "",
+    "Default purpose code": "6501"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Merchant shipping superintendent levy",
+    "Additional purpose": "",
+    "Default purpose code": "6401"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Second hand motor vehicles (SHMV) purchase tax",
+    "Additional purpose": "",
+    "Default purpose code": "6601"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Road Maintenance Levy (RML)",
+    "Additional purpose": "",
+    "Default purpose code": "2101"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Petroleum Regulatory Levy (PRL)",
+    "Additional purpose": "",
+    "Default purpose code": "2301"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Gross payment - Petroleum Development Fund (PDF)",
+    "Additional purpose": "",
+    "Default purpose code": "2501"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Kenya Railway Development Levy (RDL)",
+    "Additional purpose": "",
+    "Default purpose code": "6001"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Import health certificate",
+    "Additional purpose": "",
+    "Default purpose code": "4601"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Nuts and oils import declaration form",
+    "Additional purpose": "",
+    "Default purpose code": "4702"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "National Industrial Training Authority",
+    "Additional purpose": "",
+    "Default purpose code": "512 "
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Advance tax",
+    "Additional purpose": "",
+    "Default purpose code": "ADTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Agency revenue",
+    "Additional purpose": "",
+    "Default purpose code": "ARTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Betting tax",
+    "Additional purpose": "",
+    "Default purpose code": "BTTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Capital Gains Tax (CGT)",
+    "Additional purpose": "",
+    "Default purpose code": "CGTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Corporate tax identification",
+    "Additional purpose": "",
+    "Default purpose code": "COTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Excise duty",
+    "Additional purpose": "",
+    "Default purpose code": "EDTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Income tax",
+    "Additional purpose": "",
+    "Default purpose code": "INTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Instalment tax",
+    "Additional purpose": "",
+    "Default purpose code": "ISTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Pay As You Earn (PAYE)",
+    "Additional purpose": "",
+    "Default purpose code": "PAYE"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Rental income tax",
+    "Additional purpose": "",
+    "Default purpose code": "RITX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Stamp duty",
+    "Additional purpose": "",
+    "Default purpose code": "SDTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Tax refund",
+    "Additional purpose": "",
+    "Default purpose code": "TAXR"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Tax payment",
+    "Additional purpose": "",
+    "Default purpose code": "TAXS"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Turnover tax",
+    "Additional purpose": "",
+    "Default purpose code": "TOTX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Removed from tracking",
+    "Additional purpose": "",
+    "Default purpose code": "TRAC"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Value Added Tax (VAT) payment",
+    "Additional purpose": "",
+    "Default purpose code": "VATX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Withholding",
+    "Additional purpose": "",
+    "Default purpose code": "WHLD"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Salary payment",
+    "Additional purpose": "",
+    "Default purpose code": "SALA"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Savings",
+    "Additional purpose": "",
+    "Default purpose code": "SAVG"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Loan",
+    "Additional purpose": "",
+    "Default purpose code": "LOAN"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Insurance premium",
+    "Additional purpose": "",
+    "Default purpose code": "INSU"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Foreign exchange",
+    "Additional purpose": "",
+    "Default purpose code": "FOEX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Education expenses",
+    "Additional purpose": "",
+    "Default purpose code": "EDUC"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "License fee",
+    "Additional purpose": "",
+    "Default purpose code": "LICF"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Penalties",
+    "Additional purpose": "",
+    "Default purpose code": "PENA"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Air transport",
+    "Additional purpose": "",
+    "Default purpose code": "AIRB"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Bus",
+    "Additional purpose": "",
+    "Default purpose code": "BUSB"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Cost and freight",
+    "Additional purpose": "",
+    "Default purpose code": "CFR"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Railway",
+    "Additional purpose": "",
+    "Default purpose code": "RLWY"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Shipping",
+    "Additional purpose": "",
+    "Default purpose code": "SHIP"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Telecommunications bill",
+    "Additional purpose": "",
+    "Default purpose code": "TBIL"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Health insurance",
+    "Additional purpose": "",
+    "Default purpose code": "HLTI"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Insurance premium car",
+    "Additional purpose": "",
+    "Default purpose code": "INPC"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Life insurance",
+    "Additional purpose": "",
+    "Default purpose code": "LIFI"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Property insurance",
+    "Additional purpose": "",
+    "Default purpose code": "PPTI"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Vehicle identification plate number",
+    "Additional purpose": "",
+    "Default purpose code": "VIPN"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Investment and securities",
+    "Additional purpose": "",
+    "Default purpose code": "INVS"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Government payment",
+    "Additional purpose": "",
+    "Default purpose code": "GOVT"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Overnight",
+    "Additional purpose": "",
+    "Default purpose code": "ONCL"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Interest",
+    "Additional purpose": "",
+    "Default purpose code": "INTE"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Refund",
+    "Additional purpose": "",
+    "Default purpose code": "REFU"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Licence fees for commercial banks",
+    "Additional purpose": "",
+    "Default purpose code": "PL39"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Licence fees mortgage financial institutions",
+    "Additional purpose": "",
+    "Default purpose code": "PL43"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Licence fees deposit micro institutions",
+    "Additional purpose": "",
+    "Default purpose code": "PL40"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Licence fees forex bureaus",
+    "Additional purpose": "",
+    "Default purpose code": "PL41"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Licence fees credit reference bureaus",
+    "Additional purpose": "",
+    "Default purpose code": "PL42"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Applications fees for commercial banks",
+    "Additional purpose": "",
+    "Default purpose code": "PL44"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Applications fees depo. tak. institutions",
+    "Additional purpose": "",
+    "Default purpose code": "PL46"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Application fees forex bureaus",
+    "Additional purpose": "",
+    "Default purpose code": "PL47"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Application fees credit reference bureaus",
+    "Additional purpose": "",
+    "Default purpose code": "PL48"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Penalties commercial banks",
+    "Additional purpose": "",
+    "Default purpose code": "PL49"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Application fees for mortgage financial institutions",
+    "Additional purpose": "",
+    "Default purpose code": "PL45"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Penalties forex bureaus",
+    "Additional purpose": "",
+    "Default purpose code": "PL52"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Penalties deposit taking micro institutions",
+    "Additional purpose": "",
+    "Default purpose code": "PL51"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Penalties credit reference bureaus",
+    "Additional purpose": "",
+    "Default purpose code": "PL53"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Penalties mortgage financial institutions",
+    "Additional purpose": "",
+    "Default purpose code": "PL50"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Medical services",
+    "Additional purpose": "",
+    "Default purpose code": "MDCS"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Medical aid fund contribution",
+    "Additional purpose": "",
+    "Default purpose code": "MAFC"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Purchase of food and household goods",
+    "Additional purpose": "",
+    "Default purpose code": "HLFD"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Child benefit",
+    "Additional purpose": "",
+    "Default purpose code": "BECH"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Rent",
+    "Additional purpose": "",
+    "Default purpose code": "RENT"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Utilities",
+    "Additional purpose": "",
+    "Default purpose code": "UBIL"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Ceremonies",
+    "Additional purpose": "",
+    "Default purpose code": "CERE"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Religious activities",
+    "Additional purpose": "",
+    "Default purpose code": "RELG"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Farming",
+    "Additional purpose": "",
+    "Default purpose code": "FARM"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Clothing",
+    "Additional purpose": "",
+    "Default purpose code": "CLOT"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Community development",
+    "Additional purpose": "",
+    "Default purpose code": "COMU"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Construction activities",
+    "Additional purpose": "",
+    "Default purpose code": "CONS"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Machinery related",
+    "Additional purpose": "",
+    "Default purpose code": "MACH"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Fuel expenses",
+    "Additional purpose": "",
+    "Default purpose code": "FUEL"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Government related payments and transfers",
+    "Additional purpose": "",
+    "Default purpose code": "GOKX"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Charitable contributions (charity and aid)",
+    "Additional purpose": "",
+    "Default purpose code": "CHC"
+  },
+  {
+    "isoCountry": "KE",
+    "isoCurrency": "KES",
+    "Recipient type": "any",
+    "Default purpose": "Vostro payments",
+    "Additional purpose": "",
+    "Default purpose code": "VOST"
+  }
+]
