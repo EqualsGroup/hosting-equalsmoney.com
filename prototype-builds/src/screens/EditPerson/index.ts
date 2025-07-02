@@ -1,0 +1,1 @@
+export { EditPerson } from "./EditPerson";
