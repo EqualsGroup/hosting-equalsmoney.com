@@ -4,6 +4,12 @@
 		<loc>https://equalsmoney.com/</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/us</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/expense-cards</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/enterprise/api</loc>
 	</url>
 	<url>
@@ -13,25 +19,25 @@
 		<loc>https://equalsmoney.com/use-cases/accountancy-firms</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/industry/wholesale</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/environment</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/accounts/business-current-account</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/accounts/start-up-business-account</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/expense-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/environment</loc>
+		<loc>https://equalsmoney.com/expense-cards/purchasing-cards</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/why-equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/industry/wholesale</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/boe-interest-rate-decision</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/cookie-policy</loc>
@@ -40,61 +46,25 @@
 		<loc>https://equalsmoney.com/expense-cards/business-fuel-cards-solution</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/hospitality</loc>
-	</url>
-	<url>
 		<loc>https://equalsmoney.com/contact</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/use-cases/travel/tour-operators</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/accounts/multi-currency-business-account</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/payments/international-payments</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/hospitality</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/use-cases/travel/tour-operators</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/life-at-equals</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/expense-cards/purchasing-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/spend-management-software</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/film-tv</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/use-cases/cfd-collection-accounts</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/ecb-interest-rate-decision</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/payments/bulk-payments</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/boe-interest-rate-decision</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/complaints</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses</loc>
+		<loc>https://equalsmoney.com/accounts/multi-currency-business-account</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/industry/travel</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/expense-cards/prepaid-business-cards</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/partnership</loc>
@@ -103,25 +73,85 @@
 		<loc>https://equalsmoney.com/expense-cards/corporate-cards</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/use-cases/cfd-collection-accounts</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/payments/bulk-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/complaints</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/financial-calculators</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/fed-interest-rate-decision</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/ecb-interest-rate-decision</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/payments/domestic-payments</loc>
+		<loc>https://equalsmoney.com/expense-cards/prepaid-business-cards</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/our-reviews</loc>
+		<loc>https://equalsmoney.com/spend-management-software</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/use-cases/procurement-software</loc>
+		<loc>https://equalsmoney.com/film-tv</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/is-my-money-protected-by-the-fscs</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/payments/currency-forward-contracts</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/en-be</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/use-cases/procurement-software</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/expense-cards/credit-card-alternative</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/use-cases/ecommerce</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/modern-slavery-statement</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/expense-cards/virtual-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/our-reviews</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/payments/domestic-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/fed-interest-rate-decision</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/get-started</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/expense-cards/business-debit-cards</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/privacy</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/scams-and-fraud-awareness</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/expense-management</loc>
@@ -133,31 +163,10 @@
 		<loc>https://equalsmoney.com/security</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/scams-and-fraud-awareness</loc>
+		<loc>https://equalsmoney.com/case-studies</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/payments/currency-forward-contracts</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/expense-cards/credit-card-alternative</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/use-cases/ecommerce</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/get-started</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/modern-slavery-statement</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/expense-cards/virtual-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/expense-cards/business-debit-cards</loc>
+		<loc>https://equalsmoney.com/fr-fr</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary</loc>
@@ -169,226 +178,175 @@
 		<loc>https://equalsmoney.com/manufacturing</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/case-studies</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/banking-as-a-service</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faq</loc>
+		<loc>https://equalsmoney.com/integrations/sap-concur-partner</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/currency-news</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/is-my-money-protected-by-the-fscs</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/pricing</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/developer</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/payments/corporate-foreign-exchange</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/august</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/integrations/xero</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/integrations/sap-concur-partner</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es</loc>
+		<loc>https://equalsmoney.com/banking-as-a-service</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/nl-nl</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/faq</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/integrations/xero</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/industry/property</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-01-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-18-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/uk-gdp</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/eu-gdp</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-26-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/corporation-tax-calculator-uk</loc>
-	</url>
-	<url>
 		<loc>https://equalsmoney.com/customer-vulnerability</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-16-01-24</loc>
+		<loc>https://equalsmoney.com/pricing</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-19-12-23</loc>
+		<loc>https://equalsmoney.com/payments/corporate-foreign-exchange</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-02-24</loc>
+		<loc>https://equalsmoney.com/developer</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-19-02-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/august</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-calculators/profit-margin-calculator</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/updates-to-the-way-you-sign-in</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/uk-gdp</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/us-gdp</loc>
+		<loc>https://equalsmoney.com/blog/market-report-01-02-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-calculators/vat-calculator-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/our-reviews</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/fx-rate-comparison</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bank-rate</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/september</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/currencies/majors/nzd</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/cpih</loc>
+		<loc>https://equalsmoney.com/financial-calculators/corporation-tax-calculator-uk</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-june-2024</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/business-expenses/what-is-a-fuel-card</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/federal-reserve-system</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/international-payments/register-now</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/eu-cpi</loc>
+		<loc>https://equalsmoney.com/financial-calculators/vat-calculator-uk</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/business-expenses/what-is-a-virtual-card</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-march-2024</loc>
+		<loc>https://equalsmoney.com/blog/market-report-26-01-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/pce-price-index</loc>
+		<loc>https://equalsmoney.com/blog/market-report-18-12-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/security</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/payment-purpose-code-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/house-price-index</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/currencies/majors/jpy</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/employees-spend-over-a-month-on-tasks-that-could-be-performed-by-ai</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/markup-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-03-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/financial-leaders</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-18-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/expense-management</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/us/register-interest</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/enterprise</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/december</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/managing-expenses-for-internal-tech-services</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/january</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/equals-money-railsr-a-new-chapter-in-embedded-finance</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-16-02-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/eu-gdp</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-25-01-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/environment/sah-wind-power-plant</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/us-gdp</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us/why-equals-money</loc>
+		<loc>https://equalsmoney.com/blog/updates-to-the-way-you-sign-in</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/complaints</loc>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-march-2024</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-calculators/commercial-stamp-duty-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-november-2024</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/uk-crypto-businesses-call-on-fca</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/environment/equals-moneys-qualifying-explanatory-statement</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-01-24</loc>
+		<loc>https://equalsmoney.com/blog/market-report-19-02-24</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/case-studies/caffe-nero-cashless-expenses</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/faq</loc>
+		<loc>https://equalsmoney.com/international-payments/register-now</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/pce-price-index</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/employees-spend-over-a-month-on-tasks-that-could-be-performed-by-ai</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-12-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-16-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/markup-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/our-reviews</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/cpih</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/complaints</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/what-is-a-fuel-card</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/fx-rate-comparison</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/managing-expenses-for-internal-tech-services</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/eu-cpi</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-29-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-19-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/september</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/uk-crypto-businesses-call-on-fca</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/security</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/nzd</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/bank-rate</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/payment-purpose-code-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/federal-reserve-system</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/equals-money-railsr-a-new-chapter-in-embedded-finance</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/expense-management</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-november-2024</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-22-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-03-01-24</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-december-2024</loc>
@@ -397,7 +355,7 @@
 		<loc>https://equalsmoney.com/economic-calendar/november</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-29-02-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/january</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/us/contact</loc>
@@ -406,61 +364,64 @@
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-august-2025</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/eur</loc>
+		<loc>https://equalsmoney.com/faqs/how-we-safeguard-your-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/equals-money-sap-concur-expense</loc>
+		<loc>https://equalsmoney.com/blog/market-report-12-12-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-to-order-cards-and-set-limits#5</loc>
+		<loc>https://equalsmoney.com/us/register-interest</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/mpc-meeting</loc>
+		<loc>https://equalsmoney.com/blog/market-report-18-01-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/aud</loc>
+		<loc>https://equalsmoney.com/en-be/faq</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-22-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/managing-global-expense-policies</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/best-prepaid-travel-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-20-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-march-2025</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-22-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bank-of-england</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-a-forward-contract</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-09-01-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/december</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-06-03-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/business-expenses/accounting-reconciliation</loc>
+		<loc>https://equalsmoney.com/environment/sah-wind-power-plant</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-08-03-24</loc>
+		<loc>https://equalsmoney.com/environment/equals-moneys-qualifying-explanatory-statement</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/how-we-safeguard-your-money</loc>
+		<loc>https://equalsmoney.com/enterprise</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/us/why-equals-money</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/chf</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/commercial-stamp-duty-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/jpy</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/house-price-index</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/financial-leaders</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-12-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/eur</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-11-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-16-02-24</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-13-12-23</loc>
@@ -469,7 +430,52 @@
 		<loc>https://equalsmoney.com/financial-glossary/personal-consumption-expenditures</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/chf</loc>
+		<loc>https://equalsmoney.com/business-expenses/accounting-reconciliation</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-08-03-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/how-to-order-cards-and-set-limits</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/mpc-meeting</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/aud</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-20-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-march-2025</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/bank-of-england</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-22-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-19-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/managing-global-expense-policies</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/best-prepaid-travel-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/equals-money-sap-concur-expense</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/what-is-a-forward-contract</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-09-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/producer-price-index</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/economic-calendar/events/uk-autumn-budget</loc>
@@ -478,13 +484,22 @@
 		<loc>https://equalsmoney.com/business-expenses/retail-loss-prevention</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/producer-price-index</loc>
+		<loc>https://equalsmoney.com/financial-calculators/land-and-buildings-transaction-tax-calculator</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-19-01-24</loc>
+		<loc>https://equalsmoney.com/blog/market-report-04-03-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-dropshipping</loc>
+		<loc>https://equalsmoney.com/en-be/procurement-software</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/february</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/boj-interest-rate-decision</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/us/cookie-policy</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-january-2025</loc>
@@ -493,7 +508,13 @@
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-july-2024</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/boj-interest-rate-decision</loc>
+		<loc>https://equalsmoney.com/blog/market-report-07-03-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-05-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/what-is-dropshipping</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/silverbird-global-limited-enters-special-administration</loc>
@@ -502,43 +523,37 @@
 		<loc>https://equalsmoney.com/blog/key-fx-dates-september-2024</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/procurement-software</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-03-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/february</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/case-studies/been-london</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/land-and-buildings-transaction-tax-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-07-03-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-27-02-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/october</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/economic-calendar/july</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us/cookie-policy</loc>
+		<loc>https://equalsmoney.com/case-studies/been-london</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-01-24</loc>
+		<loc>https://equalsmoney.com/blog/market-report-27-02-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/rba-interest-rate-decision</loc>
+		<loc>https://equalsmoney.com/financial-calculators/operating-margin-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/register-now</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/get-started</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/non-farm-payrolls</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/us/film-and-tv</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/gbp</loc>
+		<loc>https://equalsmoney.com/business-expenses/accrual-accounting</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/federal-funds-rate</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/consumer-price-index</loc>
@@ -547,7 +562,49 @@
 		<loc>https://equalsmoney.com/blog/equals-group-interim-results-2024</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/blog/client-communication-regarding-proposed-m-a-transaction</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/managing-per-diem-expenses-a-guide-with-equals-money</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-13-03-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-11-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-04-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/fomc-minutes</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/rba-interest-rate-decision</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-20-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-31-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/international-payments/rate-watch</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/financial-glossary/eurozone</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/european-central-bank</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/gbp</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/uk-cpi</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/dkk</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-10-01-24</loc>
@@ -556,46 +613,7 @@
 		<loc>https://equalsmoney.com/en-be/privacy</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/client-communication-regarding-proposed-m-a-transaction</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-31-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/get-started</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/accrual-accounting</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/operating-margin-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-28-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/currencies/majors/nok</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/register-now</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-13-03-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/nationwide-hpi</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/non-farm-payrolls</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/international-payments/rate-watch</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/currencies/majors/dkk</loc>
+		<loc>https://equalsmoney.com/currencies/majors/zar</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-21-12-23</loc>
@@ -604,91 +622,52 @@
 		<loc>https://equalsmoney.com/financial-glossary/monetary-policy-committee</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-20-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/october</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/uk-cpi</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/federal-funds-rate</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/fomc-minutes</loc>
-	</url>
-	<url>
 		<loc>https://equalsmoney.com/blog/market-report-02-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/revenue-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-03-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/halifax-hpi</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/best-business-bank-accounts</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-15-02-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/scams-and-fraud-awareness</loc>
+		<loc>https://equalsmoney.com/blog/market-report-28-02-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-07-2-24</loc>
+		<loc>https://equalsmoney.com/currencies/majors/nok</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/usd</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-23-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/currencies/majors/cad</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-22-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-may-2024</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-17-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/managing-per-diem-expenses-a-guide-with-equals-money</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/uk-spring-statement</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/the-top-ecommerce-trends-businesses-to-watch</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/nationwide-hpi</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/jackson-hole-economic-symposium</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/european-central-bank</loc>
+		<loc>https://equalsmoney.com/global-business/the-top-ecommerce-trends-businesses-to-watch</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/usd</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/global-business/what-are-sepa-payments</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/us/faq</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-22-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/best-business-bank-accounts</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-13-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/uk-spring-statement</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/equals-spend-v-equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-june-2025</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-06-02-24</loc>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-may-2025</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-26-02-24</loc>
@@ -697,16 +676,58 @@
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-february-2024</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us/faq</loc>
+		<loc>https://equalsmoney.com/blog/market-report-17-01-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/monetary-policy</loc>
+		<loc>https://equalsmoney.com/blog/market-report-12-03-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/april</loc>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-june-2025</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us/privacy</loc>
+		<loc>https://equalsmoney.com/blog/market-report-06-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-23-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-july-2025</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/scams-and-fraud-awareness</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-07-2-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/hicp</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/halifax-hpi</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-may-2024</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-21-02-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/revenue-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/cad</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/june</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/multi-currency-account</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/three-essential-digital-tools-every-financial-leader-needs</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-05-03-24</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/receiving-employment-shares-in-a-foreign-currency-and-bringing-them-into-the-uk</loc>
@@ -715,46 +736,31 @@
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-february-2025</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/business-expenses/cash-withdrawal-limits</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/us-ppi</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-21-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-shopify</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/how-wealth-managers-are-becoming-one-stop-shops-for-high-net-worth-clients</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-rate-volatility</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-13-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/per-diems</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/ecommerce</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/may</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/june</loc>
+		<loc>https://equalsmoney.com/economic-calendar/march</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/key-fx-dates-in-april-2025</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/international-monetary-fund</loc>
+		<loc>https://equalsmoney.com/en-be/pricing</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/multi-currency-account</loc>
+		<loc>https://equalsmoney.com/global-business/what-is-rate-volatility</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/ebitda-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/what-is-a-swift-code</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/argentex-group-plc-suspends-trading-on-aim-your-next-steps</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/sek</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-15-01-24</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/economic-calendar/events/jolts-report</loc>
@@ -763,208 +769,115 @@
 		<loc>https://equalsmoney.com/economic-calendar/events/us-employment-data</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/march</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-24-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-july-2025</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-30-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/argentex-group-plc-suspends-trading-on-aim-your-next-steps</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/uk-budget</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/hicp</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-a-swift-code</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/pricing</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-may-2025</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/upgrade-to-equals-money</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/boc-interest-rate-decision</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-03-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/three-essential-digital-tools-every-financial-leader-needs</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/g7-summit</loc>
+		<loc>https://equalsmoney.com/financial-glossary/monetary-policy</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/global-business/trump-tariffs-explained</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-calculators/mileage-rate-calculator</loc>
+		<loc>https://equalsmoney.com/us/privacy</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-15-01-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/april</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs/adding-people-and-setting-roles</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/g7-summit</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/sek</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/boc-interest-rate-decision</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/us-cpi</loc>
+		<loc>https://equalsmoney.com/blog/market-report-30-01-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-01-03-24</loc>
+		<loc>https://equalsmoney.com/financial-glossary/international-monetary-fund</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us/expense-management</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-annotations-work</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/effective-federal-funds-rate</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-fx-dates-in-october-2024</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/ebitda-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/basis-points-calculator</loc>
+		<loc>https://equalsmoney.com/economic-calendar/may</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-calculators/roas-calculator</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/gross-domestic-product</loc>
+		<loc>https://equalsmoney.com/blog/upgrade-to-equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-14-02-24</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/uk-budget</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/hkd</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/what-is-shopify</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/how-wealth-managers-are-becoming-one-stop-shops-for-high-net-worth-clients</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/cash-withdrawal-limits</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-24-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/per-diems</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/ecommerce</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/us-ppi</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/mileage-rate-calculator</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/equals-money-sale-sharks-business-club-24-25-season</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-08-01-23</loc>
+		<loc>https://equalsmoney.com/blog/key-fx-dates-in-october-2024</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/global-business/ecommerce-payments</loc>
+		<loc>https://equalsmoney.com/blog/market-report-14-02-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/terms-and-conditions</loc>
+		<loc>https://equalsmoney.com/financial-calculators/basis-points-calculator</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-03-24</loc>
+		<loc>https://equalsmoney.com/walkthroughs/how-annotations-work</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-14-12-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/gross-domestic-product</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/richard-cooper</loc>
+		<loc>https://equalsmoney.com/financial-glossary/effective-federal-funds-rate</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/modern-slavery-statement</loc>
+		<loc>https://equalsmoney.com/us/expense-management</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/how-easy-expense-management-leads-to-better-employee-retention</loc>
+		<loc>https://equalsmoney.com/blog/market-report-01-03-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-depreciation</loc>
+		<loc>https://equalsmoney.com/walkthroughs/adding-people-and-setting-roles</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/nuestros-comentarios</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/us-cpi</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-29-01-24</loc>
+		<loc>https://equalsmoney.com/financial-glossary/stagflation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/fr-fr/conditions-generales</loc>
+		<loc>https://equalsmoney.com/financial-glossary/decentralized-finance</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-chaps</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-02-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/best-business-credit-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-23-01-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/contact</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bulk-payments</loc>
+		<loc>https://equalsmoney.com/people/craig-agutter</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/economic-calendar/events/g20-summit</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/passport-to-growth</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/fomc-meeting</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/swiss-national-bank</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/pmi-numbers</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/planning-ahead-your-business-guide-for-2025</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/ftse-100-index</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/what-are-bacs-payments</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/us/terms-conditions</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/market-capitalisation</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/paiements-internationaux</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/contango</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/reclamations</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/financial-year</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/buy-limit-order</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/dividend-yield</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/coupon-bond</loc>
+		<loc>https://equalsmoney.com/en-be/modern-slavery-statement</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/blockchain</loc>
@@ -973,40 +886,13 @@
 		<loc>https://equalsmoney.com/financial-glossary/short-position</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs/first-steps-for-cardholders</loc>
+		<loc>https://equalsmoney.com/blog/market-report-11-03-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/harry-watts</loc>
+		<loc>https://equalsmoney.com/financial-glossary/currency-depreciation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/fr-fr/controle-des-depenses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/app-fraud</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/oecd</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/ebitda-margin</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-to-add-recipients-and-make-a-payment</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/budget-deficit</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/contacto</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/budgetbeheer</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/unicorn</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/meme-stocks</loc>
+		<loc>https://equalsmoney.com/es-es/nuestros-comentarios</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/secured-overnight-financing-rate</loc>
@@ -1015,52 +901,10 @@
 		<loc>https://equalsmoney.com/financial-glossary/prime-of-prime</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/yield</loc>
+		<loc>https://equalsmoney.com/en-be/terms-and-conditions</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bitcoin</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/what-are-the-different-transaction-types</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/g7</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/esg</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/circuit-breaker</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/upgrading-to-equals-money-from-spend</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/customer-acquisition-cost</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/spot-rate</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/trade-war</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/central-limit-order-book</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/craig-agutter</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/decentralized-finance</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/non-operating-revenue</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/software-voor-inkoop</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/fintech</loc>
+		<loc>https://equalsmoney.com/financial-glossary/bulk-payments</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/nl-nl/internationale-betalingen</loc>
@@ -1072,88 +916,121 @@
 		<loc>https://equalsmoney.com/people/michael-rimmer</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/euan-robb</loc>
+		<loc>https://equalsmoney.com/blog/market-report-23-01-24</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/mileage-allowance-payments</loc>
+		<loc>https://equalsmoney.com/financial-glossary/ftse-100-index</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cable</loc>
+		<loc>https://equalsmoney.com/financial-glossary/financial-year</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/call-option</loc>
+		<loc>https://equalsmoney.com/financial-glossary/buy-limit-order</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/capital-controls</loc>
+		<loc>https://equalsmoney.com/fr-fr/conditions-generales</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cash-flow-statement</loc>
+		<loc>https://equalsmoney.com/faqs/what-are-the-different-transaction-types</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cash-dividends</loc>
+		<loc>https://equalsmoney.com/financial-glossary/app-fraud</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/support-level</loc>
+		<loc>https://equalsmoney.com/financial-glossary/oecd</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/sgd</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/upgrading-to-equals-money-from-spend</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/customer-acquisition-cost</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/spot-rate</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-29-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/richard-cooper</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/budget-deficit</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/contacto</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/currencies/majors/huf</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/swiss-national-bank</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/reclamations</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/contango</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-02-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/what-is-chaps</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/controle-des-depenses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/g7</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/esg</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/defence-against-money-laundering</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/fr-fr/tarifs</loc>
+		<loc>https://equalsmoney.com/financial-glossary/support-level</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/recurring-revenue</loc>
+		<loc>https://equalsmoney.com/financial-glossary/coupon-bond</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-valuation</loc>
+		<loc>https://equalsmoney.com/financial-glossary/non-operating-revenue</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/developer/getting-started</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/politica-de-privacidad</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-to-create-an-individual-card</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-to-create-a-shared-card</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/fiat-currency</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/xauxag</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/can-i-send-multiple-payments-at-once-in-bulk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/seguridad</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/open-banking</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/underbanked</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/warren-buffet</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/unbanked</loc>
+		<loc>https://equalsmoney.com/financial-glossary/cash-dividends</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/g20</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/interbank-market</loc>
+		<loc>https://equalsmoney.com/nl-nl/software-voor-inkoop</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/what-currencies-do-you-offer-for-international-payments</loc>
+		<loc>https://equalsmoney.com/financial-glossary/market-capitalisation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/balance-sheet</loc>
+		<loc>https://equalsmoney.com/financial-glossary/ebitda-margin</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/how-to-add-recipients-and-make-a-payment</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/capital-controls</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/dividend-yield</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/central-limit-order-book</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/how-to-create-a-shared-card</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/people/hurneet-sehmi-ramchurit</loc>
@@ -1162,94 +1039,124 @@
 		<loc>https://equalsmoney.com/financial-glossary/dovish</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/payment-service-provider</loc>
+		<loc>https://equalsmoney.com/walkthroughs/first-steps-for-cardholders</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/london-stock-exchange</loc>
+		<loc>https://equalsmoney.com/financial-glossary/trade-war</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/tarjetas-de-gastos-prepagadas</loc>
+		<loc>https://equalsmoney.com/people/euan-robb</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/mileage-allowance-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/seguridad</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/degen-trading</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/lawrence-kaplin</loc>
+		<loc>https://equalsmoney.com/fr-fr/paiements-internationaux</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/geopolitical-risk</loc>
+		<loc>https://equalsmoney.com/people/harry-watts</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/tarjetas-de-gastos-prepagadas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/developer/getting-started</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/unicorn</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/meme-stocks</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/cash-flow-statement</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/budgetbeheer</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/circuit-breaker</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/currency-valuation</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/open-banking</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/yield</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/bitcoin</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/fintech</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/fr-fr/declaration-sur-lesclavage-moderne</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/forward-margin-initial-variation</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/dot-plot</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/stamp-duty-land-tax</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/contact</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/prepayments</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/contactez-nous</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/ex-dividend-date</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/treasury-yields</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/malcolm-maclean</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/elisa-jayne-britton</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/hmrc</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/drawdown</loc>
+		<loc>https://equalsmoney.com/financial-glossary/xauxag</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/income-statement</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/fr-fr/compte-multidevise</loc>
+		<loc>https://equalsmoney.com/financial-glossary/balance-sheet</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/nl-nl/prijzen</loc>
+		<loc>https://equalsmoney.com/faqs/what-currencies-do-you-offer-for-international-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/interbank-market</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/underbanked</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/warren-buffet</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/currency-intervention</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/cuenta-multidivisa</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/forward-margin-initial-variation</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/payment-service-provider</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/dot-plot</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/ex-dividend-date</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/how-to-create-an-individual-card</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/london-stock-exchange</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/es-es/introduccion</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-to-request-funds</loc>
+		<loc>https://equalsmoney.com/fr-fr/tarifs</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/stock-dividends</loc>
+		<loc>https://equalsmoney.com/financial-glossary/unbanked</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/comercio-electronico</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/sovereign-wealth-fund</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/privacybeleid</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/spread</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/inflation</loc>
+		<loc>https://equalsmoney.com/financial-glossary/fiat-currency</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/nl-nl/kostenbeheer</loc>
@@ -1258,16 +1165,61 @@
 		<loc>https://equalsmoney.com/financial-glossary/yankee-bond</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/how-to-create-a-shared-balance</loc>
+		<loc>https://equalsmoney.com/financial-glossary/call-option</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/carbon-neutral</loc>
+		<loc>https://equalsmoney.com/financial-glossary/cable</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/recurring-revenue</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/contactez-nous</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/prepayments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/politica-de-privacidad</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/can-i-send-multiple-payments-at-once-in-bulk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/geopolitical-risk</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/walkthroughs/using-xero-with-equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/cuenta-multidivisa</loc>
+		<loc>https://equalsmoney.com/financial-glossary/return-on-capital-employed</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/malcolm-maclean</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/elisa-jayne-britton</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/lawrence-kaplin</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/sovereign-wealth-fund</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/carbon-neutral</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/prijzen</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/how-to-create-a-shared-balance</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/hmrc</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/drawdown</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/snap-election</loc>
@@ -1276,10 +1228,49 @@
 		<loc>https://equalsmoney.com/financial-glossary/cost-per-click</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-intervention</loc>
+		<loc>https://equalsmoney.com/people/ryan-curtis</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/return-on-capital-employed</loc>
+		<loc>https://equalsmoney.com/financial-glossary/treasury-yields</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/software-de-contratacion</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/greenback</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/contact</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/inflation</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/compte-multidevise</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/comercio-electronico</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/stock-dividends</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/privacybeleid</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/hyperinflation</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/stamp-duty-land-tax</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/how-to-request-funds</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/spread</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/ach-payment</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/faqs/what-are-the-account-roles-and-permissions-on-the-equals-money-account</loc>
@@ -1288,55 +1279,55 @@
 		<loc>https://equalsmoney.com/financial-glossary/stop-loss-order</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/greenback</loc>
+		<loc>https://equalsmoney.com/financial-glossary/cash-per-share</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/hyperinflation</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/ach-payment</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/markup</loc>
+		<loc>https://equalsmoney.com/financial-glossary/operating-expenses</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/developer/api-docs</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/free-cash-flow</loc>
+		<loc>https://equalsmoney.com/financial-glossary/return-on-ad-spend</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/mary-kelly</loc>
+		<loc>https://equalsmoney.com/financial-glossary/carry-trade</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/ryan-curtis</loc>
+		<loc>https://equalsmoney.com/fr-fr/securite</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cash-per-share</loc>
+		<loc>https://equalsmoney.com/financial-glossary/candlestick-chart</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/fiscal-year</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/open-window-forwards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/hedging</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/xero/how-to-terminate-an-employee-in-xero</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/earnings-per-share</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/getting-started-with-your-account</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/graham-jarvis</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/ecofin</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/fr-fr/nos-commentaires</loc>
+		<loc>https://equalsmoney.com/financial-glossary/resistance-level</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/hawkish</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/klachten</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/accruals</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/commerce-electronique</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/xero/how-to-delete-a-bank-account-in-xero</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/gilts</loc>
+		<loc>https://equalsmoney.com/people/mary-kelly</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/arbitrage</loc>
@@ -1348,19 +1339,16 @@
 		<loc>https://equalsmoney.com/financial-glossary/financial-statements</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bank-of-japan</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/chris-webster</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/ecommerce</loc>
+		<loc>https://equalsmoney.com/financial-glossary/hawkish</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/fr-fr/politique-de-confidentialite</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/fr-fr/securite</loc>
+		<loc>https://equalsmoney.com/financial-glossary/new-york-stock-exchange</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/nos-commentaires</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/canadian-overnight-repo-rate-average</loc>
@@ -1369,7 +1357,10 @@
 		<loc>https://equalsmoney.com/financial-glossary/strike-price</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/graham-jarvis</loc>
+		<loc>https://equalsmoney.com/faqs/assigning-people-to-balances</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/dead-cat-bounce</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/working-capital</loc>
@@ -1378,19 +1369,22 @@
 		<loc>https://equalsmoney.com/financial-glossary/net-zero</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/land-and-buildings-transaction-tax</loc>
+		<loc>https://equalsmoney.com/fr-fr/commerce-electronique</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/software-de-contratacion</loc>
+		<loc>https://equalsmoney.com/xero/how-to-delete-a-bank-account-in-xero</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/candlestick-chart</loc>
+		<loc>https://equalsmoney.com/financial-glossary/margin</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/open-window-forwards</loc>
+		<loc>https://equalsmoney.com/financial-glossary/markup</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/hedging</loc>
+		<loc>https://equalsmoney.com/financial-glossary/liquidity-provider</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/free-cash-flow</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/case-studies/equals-money-ahmad-tea</loc>
@@ -1402,40 +1396,10 @@
 		<loc>https://equalsmoney.com/financial-glossary/tokyo-overnight-average-rate</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/new-york-stock-exchange</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/carry-trade</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/return-on-ad-spend</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/margin</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/dead-cat-bounce</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/tariffs</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/central-banks</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/resistance-level</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/operating-profit</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bearish</loc>
+		<loc>https://equalsmoney.com/nl-nl/verklaring-moderne-slavernij</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/risk-appetite</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/fiscal-year</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/intercontinental-exchange</loc>
@@ -1444,61 +1408,52 @@
 		<loc>https://equalsmoney.com/financial-glossary/interest-rate-differential</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/xero/how-to-terminate-an-employee-in-xero</loc>
+		<loc>https://equalsmoney.com/financial-glossary/bank-of-japan</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/earnings-per-share</loc>
+		<loc>https://equalsmoney.com/financial-glossary/currency-pairs</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/mileage-allowance-relief</loc>
+		<loc>https://equalsmoney.com/financial-glossary/gilts</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/matthew-rush</loc>
+		<loc>https://equalsmoney.com/financial-glossary/accruals</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs/getting-started-with-your-account</loc>
+		<loc>https://equalsmoney.com/people/chris-webster</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/bearish</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/fx-swap</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/pagos-internacionales</loc>
+		<loc>https://equalsmoney.com/nl-nl/klachten</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/concienciacion-sobre-estafas-y-fraude</loc>
+		<loc>https://equalsmoney.com/financial-glossary/tariffs</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/equals-money</loc>
+		<loc>https://equalsmoney.com/financial-glossary/central-banks</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/dividends</loc>
+		<loc>https://equalsmoney.com/financial-glossary/land-and-buildings-transaction-tax</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/operating-profit</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/ecommerce</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/corporation-tax</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/sterling-overnight-index-average</loc>
+		<loc>https://equalsmoney.com/financial-glossary/compound-interest</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/commodity-currency</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/assigning-people-to-balances</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/multi-valutarekening</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/verklaring-moderne-slavernij</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/ordering-cards-and-setting-limits</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/operating-expenses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/liquidity-provider</loc>
+		<loc>https://equalsmoney.com/es-es/pagos-internacionales</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/deferred-income</loc>
@@ -1507,7 +1462,19 @@
 		<loc>https://equalsmoney.com/financial-glossary/trading-bloc</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-pairs</loc>
+		<loc>https://equalsmoney.com/financial-glossary/qualifying-money-market-fund</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/concienciacion-sobre-estafas-y-fraude</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/sterling-overnight-index-average</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/commodity-currency</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/ordering-cards-and-setting-limits</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/backtesting</loc>
@@ -1516,58 +1483,100 @@
 		<loc>https://equalsmoney.com/financial-glossary/currency-options</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/qualifying-money-market-fund</loc>
+		<loc>https://equalsmoney.com/people/equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/compound-interest</loc>
+		<loc>https://equalsmoney.com/financial-glossary/dividends</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/payment-purpose-code</loc>
+		<loc>https://equalsmoney.com/financial-glossary/weighted-average-cost-of-capital</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-19-09-23</loc>
+		<loc>https://equalsmoney.com/nl-nl/multi-valutarekening</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-18-10-2023</loc>
+		<loc>https://equalsmoney.com/people/matthew-rush</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/mileage-allowance-relief</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-31-05-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-24-07-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-12-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-10-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-07-11-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-18-10-2023</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-09-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-07-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-07-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/international-inheritance-the-essential-role-of-an-fx-expert</loc>
+		<loc>https://equalsmoney.com/blog/market-report-10-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cross-rates</loc>
+		<loc>https://equalsmoney.com/blog/market-report-19-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/what-is-a-prepaid-expense-card</loc>
+		<loc>https://equalsmoney.com/financial-glossary/payment-purpose-code</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-06-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-ski-chalet-in-france-your-ultimate-guide</loc>
+		<loc>https://equalsmoney.com/blog/market-report-24-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-27-09-23</loc>
+		<loc>https://equalsmoney.com/personal</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/fixed-exchange-rate</loc>
+		<loc>https://equalsmoney.com/es-es/tarjetas-de-debito-comerciales</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/oplichting-en-fraudebewustzijn</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/currency-war</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/harris-shabbir</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/legal-tender</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/quantitative-tightening</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/pips</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/patrick-mcdill</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/isin</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/money-market-fund</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/mergers-and-acquisitions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/declaracion-sobre-la-esclavitud-moderna</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/beige-book</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/xenocurrency</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/forex</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/core-cpi</loc>
@@ -1576,82 +1585,64 @@
 		<loc>https://equalsmoney.com/blog/what-are-pending-card-transactions</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/understanding-golden-visas-our-guide</loc>
+		<loc>https://equalsmoney.com/blog/what-is-a-prepaid-expense-card</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/paying-for-international-boarding-schools-a-comprehensive-guide</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/top-tips-for-booking-a-christmas-party-managing-festive-expenses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/multi-currency-accounts-for-travel-companies</loc>
+		<loc>https://equalsmoney.com/blog/buying-a-ski-chalet-in-switzerland-an-essential-guide</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-22-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-01-08-23</loc>
+		<loc>https://equalsmoney.com/blog/buying-a-ski-chalet-in-france-your-ultimate-guide</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-ski-chalet-in-switzerland-an-essential-guide</loc>
+		<loc>https://equalsmoney.com/financial-glossary/fixed-exchange-rate</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/prepaid-cards-for-charging-your-electric-company-car</loc>
+		<loc>https://equalsmoney.com/blog/multi-currency-accounts-for-travel-companies</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/virtual-card-solutions-modern-expense-management</loc>
+		<loc>https://equalsmoney.com/financial-glossary/cross-rates</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/understanding-golden-visas-our-guide</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-16-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/equals-money-has-joined-sepa</loc>
+		<loc>https://equalsmoney.com/blog/prepaid-cards-for-charging-your-electric-company-car</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/electronic-communications-network</loc>
+		<loc>https://equalsmoney.com/blog/market-report-27-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/safe-haven-currency</loc>
+		<loc>https://equalsmoney.com/blog/international-inheritance-the-essential-role-of-an-fx-expert</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/declaracion-sobre-la-esclavitud-moderna</loc>
+		<loc>https://equalsmoney.com/nl-nl/software-voor-uitgavenbeheer</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/legal-tender</loc>
+		<loc>https://equalsmoney.com/financial-glossary/currency-devaluation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/beige-book</loc>
+		<loc>https://equalsmoney.com/financial-glossary/marginal-propensity-to-consume</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/cash-basis-accounting</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/iso-currency-codes</loc>
+		<loc>https://equalsmoney.com/fr-fr/logiciel-dapprovisionnement</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/forex</loc>
+		<loc>https://equalsmoney.com/financial-glossary/ebitda</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/isin</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/matthew-goacher</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/slippage</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/tom-kiddle</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/gestion-des-depenses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/quantitative-tightening</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-war</loc>
+		<loc>https://equalsmoney.com/faqs/what-are-the-different-card-transaction-statuses</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/m-pesa</loc>
@@ -1663,151 +1654,52 @@
 		<loc>https://equalsmoney.com/financial-glossary/depreciation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/money-market-fund</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/pips</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/downside</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/tarjetas-de-debito-comerciales</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/xenocurrency</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/what-are-the-different-card-transaction-statuses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/marginal-propensity-to-consume</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/logiciel-dapprovisionnement</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/weighted-average-cost-of-capital</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/mergers-and-acquisitions</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/personal</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-devaluation</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/software-voor-uitgavenbeheer</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/harris-shabbir</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/oplichting-en-fraudebewustzijn</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/patrick-mcdill</loc>
+		<loc>https://equalsmoney.com/fr-fr/gestion-des-depenses</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/nl-nl/beveiliging</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/central-bank-digital-currency</loc>
+		<loc>https://equalsmoney.com/financial-glossary/slippage</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/british-bankers-association</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/quantitative-easing</loc>
+		<loc>https://equalsmoney.com/financial-glossary/safe-haven-currency</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/the-impact-of-customer-services</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/inheriting-pensions-from-overseas</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-10-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/exchange-rate-mechanism</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/world-trade-organization</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/limit-order</loc>
+		<loc>https://equalsmoney.com/financial-glossary/electronic-communications-network</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/yield-spread</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/operating-revenue</loc>
+		<loc>https://equalsmoney.com/people/matthew-goacher</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/walkthroughs/how-to-view-reports-and-statements</loc>
+		<loc>https://equalsmoney.com/financial-glossary/quantitative-easing</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/reserve-bank-of-new-zealand</loc>
+		<loc>https://equalsmoney.com/people/tom-kiddle</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/thanim-islam</loc>
+		<loc>https://equalsmoney.com/financial-glossary/limit-order</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/g10</loc>
+		<loc>https://equalsmoney.com/financial-glossary/central-bank-digital-currency</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/rollover</loc>
+		<loc>https://equalsmoney.com/financial-glossary/world-trade-organization</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/control-de-gastos</loc>
+		<loc>https://equalsmoney.com/financial-glossary/downside</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/sandra-sanz</loc>
+		<loc>https://equalsmoney.com/financial-glossary/iso-currency-codes</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/transactional-revenue</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/nilesh-bodalia</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cryptocurrency</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/tom-eaton</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/derivatives</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/volatility</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/precios</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/panic-buying</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/mark-to-market</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/upside</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/commencer</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/open-outcry</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/cartes-de-frais-professionnels-prepayees</loc>
+		<loc>https://equalsmoney.com/financial-glossary/exchange-rate-mechanism</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/currency-list</loc>
@@ -1816,22 +1708,109 @@
 		<loc>https://equalsmoney.com/nl-nl/cookiebeleid</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/jolts</loc>
+		<loc>https://equalsmoney.com/financial-glossary/derivatives</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/alternative-investment-market</loc>
+		<loc>https://equalsmoney.com/financial-glossary/transactional-revenue</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/reverse-charge</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/upside</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/g10</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/london-interbank-offered-rate</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/empire-state-manufacturing-index</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/passport-to-growth</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/onze-beoordelingen</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/recession</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/alternative-investment-market</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/gestion-des-depenses-logiciel</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/volatility</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/open-outcry</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/panic-buying</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/baltic-dry-index</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/zero-coupon-bonds</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/nilesh-bodalia</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/es-es/politica-de-cookies</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/nl-nl/aan-de-slag</loc>
+		<loc>https://equalsmoney.com/people/tom-eaton</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/reverse-charge</loc>
+		<loc>https://equalsmoney.com/financial-glossary/gross-profit</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/capex</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/pmi-numbers</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/jakub-majchrzak</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/control-de-gastos</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/one-cancels-the-other-order</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/prepaid-zakelijke-onkostenkaarten</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/net-present-value</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/what-are-bacs-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/commencer</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/cryptocurrency</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/fr-fr/cartes-de-frais-professionnels-prepayees</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/reclamaciones</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/black-swan-event</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/statement-of-changes-in-equity</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/richmond-manufacturing-index</loc>
@@ -1846,109 +1825,133 @@
 		<loc>https://equalsmoney.com/financial-glossary/accounting-period</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/london-interbank-offered-rate</loc>
+		<loc>https://equalsmoney.com/people/thanim-islam</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/jakub-majchrzak</loc>
+		<loc>https://equalsmoney.com/financial-glossary/reserve-bank-of-new-zealand</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/how-to-view-reports-and-statements</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/operating-revenue</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/nl-nl/algemene-voorwaarden</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/jolts</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/reserve-bank-of-australia</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/one-cancels-the-other-order</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/ebitda</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/fr-fr/gestion-des-depenses-logiciel</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/tarjetas-corporativas</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/baltic-dry-index</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/xero/how-to-track-inventory-in-xero</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/direct-market-access</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/win-rate</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/prepaid-zakelijke-onkostenkaarten</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/recession</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/maximum-drawdown</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-calculators/percentage-calculator</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/streamline-digital-ad-spend</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/net-present-value</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/statement-of-changes-in-equity</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/deferred-expense</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-symbols</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/contract-for-difference</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/gross-profit</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/capex</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/assigning-people-to-balances</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/terminos-y-condiciones</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/forward-rate</loc>
+		<loc>https://equalsmoney.com/people/sandra-sanz</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/know-your-client</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/financial-glossary/regulatory-news-service</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/es-es/gestion-de-gastos</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/s-p-500-index</loc>
+		<loc>https://equalsmoney.com/walkthroughs/integrate-with-sap-concur</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/spend-management-software</loc>
+		<loc>https://equalsmoney.com/financial-glossary/rollover</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/beneficiary</loc>
+		<loc>https://equalsmoney.com/nl-nl/aan-de-slag</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/es-es/reclamaciones</loc>
+		<loc>https://equalsmoney.com/financial-glossary/brics</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/black-swan-event</loc>
+		<loc>https://equalsmoney.com/financial-glossary/win-rate</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/direct-market-access</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/precios</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/tarjetas-corporativas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/mark-to-market</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/bank-of-canada</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/fiscal-policy</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-05-01-24</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/case-studies/equals-money-macg-racing</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-calculators/percentage-calculator</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/business-expenses/best-business-credit-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/ecommerce-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/planning-ahead-your-business-guide-for-2025</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/cost-of-goods-sold</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/walkthroughs/assigning-people-to-balances</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/us/prepaid-business-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/en-be/cookie-policy</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/contract-for-difference</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/gearing</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/walkthroughs/how-to-make-batch-payments</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/francis-bradley</loc>
+		<loc>https://equalsmoney.com/financial-glossary/maximum-drawdown</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/economic-calendar/events/fomc-meeting</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/forward-rate</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/us/terms-conditions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-08-01-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/new-year-new-expense-policy-transform-your-business-finances-with-equals-money</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/s-p-500-index</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/case-studies/team-evolution-customer-stories</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/value-added-tax</loc>
@@ -1957,133 +1960,73 @@
 		<loc>https://equalsmoney.com/financial-glossary/fixed-date-forwards</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/fiscal-policy</loc>
+		<loc>https://equalsmoney.com/en-be/contact</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/case-studies/team-evolution-customer-stories</loc>
+		<loc>https://equalsmoney.com/blog/market-report-14-12-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bank-of-canada</loc>
+		<loc>https://equalsmoney.com/en-be/spend-management-software</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/zero-coupon-bonds</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/walkthroughs/integrate-with-sap-concur</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/case-studies/equals-money-macg-racing</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/nl-nl/algemene-voorwaarden</loc>
+		<loc>https://equalsmoney.com/business-expenses/streamline-digital-ad-spend</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/take-home-pay</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/cookie-policy</loc>
+		<loc>https://equalsmoney.com/people/francis-bradley</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/currency-symbols</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/beneficiary</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/es-es/terminos-y-condiciones</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/securities-and-exchange-commission</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/brics</loc>
+		<loc>https://equalsmoney.com/es-es/gestion-de-gastos-software</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/regulatory-news-service</loc>
+		<loc>https://equalsmoney.com/blog/how-easy-expense-management-leads-to-better-employee-retention</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/nl-nl/onze-beoordelingen</loc>
+		<loc>https://equalsmoney.com/financial-glossary/deferred-expense</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/us/prepaid-business-cards</loc>
+		<loc>https://equalsmoney.com/xero/how-to-track-inventory-in-xero</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/basis-points</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/currency-appreciation</loc>
+		<loc>https://equalsmoney.com/financial-glossary/monte-carlo-simulation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/people/ian-campbell</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/new-year-new-expense-policy-transform-your-business-finances-with-equals-money</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/rbnz-interest-rate-decision</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/business-expenses/receipt-scanner-app</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/tailored-solutions-for-the-igaming-industry</loc>
+		<loc>https://equalsmoney.com/en-be/control-spend</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/risk-on-risk-off</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/monte-carlo-simulation</loc>
+		<loc>https://equalsmoney.com/blog/tailored-solutions-for-the-igaming-industry</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/designing-for-you-how-customer-feedback-is-shaping-equals-money</loc>
+		<loc>https://equalsmoney.com/financial-glossary/federal-reserve-bank-of-new-york</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/en-be/international-payments</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/nonfarm-payrolls</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/house-price-index</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/mid-market-exchange-rate</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/federal-reserve-bank-of-richmond</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/long-position</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/global-business/what-is-an-iban</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/world-economic-forum</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/snb-interest-rate-decision</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cost-of-goods-sold</loc>
+		<loc>https://equalsmoney.com/financial-glossary/federal-open-market-committee</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/debanked</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/g2-spring-2024</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/federal-open-market-committee</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/gearing</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-15-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/federal-reserve-bank-of-new-york</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/environment/esg-report</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/es-es/gestion-de-gastos-software</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/en-be/control-spend</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/fr-fr/politique-de-cookies</loc>
@@ -2095,130 +2038,181 @@
 		<loc>https://equalsmoney.com/us/hospitality</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/stagflation</loc>
+		<loc>https://equalsmoney.com/financial-glossary/currency-appreciation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/managing-expenses-for-conferences-and-expos</loc>
+		<loc>https://equalsmoney.com/en-be/international-payments</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/planning-a-wedding-abroad-the-importance-of-international-payments</loc>
+		<loc>https://equalsmoney.com/blog/designing-for-you-how-customer-feedback-is-shaping-equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/studying-abroad-in-america-from-the-uk-a-comprehensive-guide</loc>
+		<loc>https://equalsmoney.com/financial-glossary/world-economic-forum</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/what-are-spend-limits</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/snb-interest-rate-decision</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/industry/gaming</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/rbnz-interest-rate-decision</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-08-11-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-15-12-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/confirmation-of-payee</loc>
+		<loc>https://equalsmoney.com/environment/esg-report</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/navigating-us-inheritance-while-living-in-the-uk</loc>
+		<loc>https://equalsmoney.com/global-business/what-is-an-iban</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-23-11-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/mid-market-exchange-rate</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/whats-the-difference-between-individual-and-shared-cards</loc>
+		<loc>https://equalsmoney.com/business-expenses/receipt-scanner-app</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/equals-money-goes-carbon-neutral-with-c-free</loc>
+		<loc>https://equalsmoney.com/people/ian-campbell</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/best-way-to-pay-suppliers-in-europe-a-guide-for-uk-businesses</loc>
+		<loc>https://equalsmoney.com/financial-glossary/nonfarm-payrolls</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-25-08-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/house-price-index</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-20-10-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/federal-reserve-bank-of-richmond</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/business-expense-management-cards-the-ultimate-guide</loc>
+		<loc>https://equalsmoney.com/financial-glossary/long-position</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/petrocurrency</loc>
+		<loc>https://equalsmoney.com/blog/virtual-card-solutions-modern-expense-management</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/how-can-i-find-out-my-payment-purpose-code</loc>
+		<loc>https://equalsmoney.com/blog/equals-money-has-joined-sepa</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-yacht-abroad-from-the-uk</loc>
+		<loc>https://equalsmoney.com/blog/market-report-01-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-01-09-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-10-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/what-is-a-sepa-payment</loc>
+		<loc>https://equalsmoney.com/blog/top-tips-for-booking-a-christmas-party-managing-festive-expenses</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/a-comprehensive-retirement-guide-retiring-abroad-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-10-23</loc>
+		<loc>https://equalsmoney.com/blog/the-impact-of-customer-services</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-31-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-06-10-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-05-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/navigating-international-payments-in-the-marine-industry-with-equals-money</loc>
+		<loc>https://equalsmoney.com/financial-glossary/petrocurrency</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-6-12-23</loc>
+		<loc>https://equalsmoney.com/blog/studying-abroad-in-america-from-the-uk-a-comprehensive-guide</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/managing-expenses-for-conferences-and-expos</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/what-are-spend-limits</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/whats-the-difference-between-individual-and-shared-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/industry/gaming</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-20-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-25-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-11-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/planning-a-wedding-abroad-the-importance-of-international-payments</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-23-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/how-can-i-find-out-my-payment-purpose-code</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-08-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/inheriting-pensions-from-overseas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/equals-money-goes-carbon-neutral-with-c-free</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/paas</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/blog/navigating-us-inheritance-while-living-in-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/buying-a-yacht-abroad-from-the-uk</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/faqs/whats-the-difference-between-the-transaction-activity-csv-and-the-statement-activity-csv</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/film-tv-production-streamline-your-international-payments</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/the-cost-of-a-wedding-abroad-everything-uk-couples-need-to-know</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-14-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-31-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/gbpeur-q1-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/what-we-call-things</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/currency-outlook-16-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/sending-money-to-international-students-in-france</loc>
+		<loc>https://equalsmoney.com/blog/market-report-01-09-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-06-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/gbpeur-q1-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/what-is-a-sepa-payment</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/the-cost-of-a-wedding-abroad-everything-uk-couples-need-to-know</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-6-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/confirmation-of-payee</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/a-comprehensive-retirement-guide-retiring-abroad-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/best-way-to-pay-suppliers-in-europe-a-guide-for-uk-businesses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/business-expense-management-cards-the-ultimate-guide</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/gbpeur-q3-2023</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/faqs/upgrading-to-equals-money-from-spend</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/market-report-13-9-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-27-07-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-13-6-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/how-can-i-view-card-transactions</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/multi-currency-account-for-exporters-unlocking-global-trade-efficiency</loc>
+		<loc>https://equalsmoney.com/blog/navigating-international-payments-in-the-marine-industry-with-equals-money</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-30-10</loc>
@@ -2227,46 +2221,118 @@
 		<loc>https://equalsmoney.com/blog/sag-afta-strike-ends-resuming-production-finances-efficiently</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/equals-money-sponsors-the-sale-sharks-business-club</loc>
+		<loc>https://equalsmoney.com/blog/what-we-call-things</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/upgrading-to-equals-money-from-spend</loc>
+		<loc>https://equalsmoney.com/blog/market-report-27-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-24-10-23</loc>
+		<loc>https://equalsmoney.com/blog/film-tv-production-streamline-your-international-payments</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/how-to-write-an-expense-policy-our-guide</loc>
+		<loc>https://equalsmoney.com/blog/market-report-14-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-12-23</loc>
+		<loc>https://equalsmoney.com/blog/multi-currency-account-for-exporters-unlocking-global-trade-efficiency</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/transitioning-from-petty-cash-to-equals-moneys-prepaid-expense-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-13-6-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-31-08-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/funding-immigration-expenses-a-guide-to-international-transfers</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/safeguarding</loc>
+		<loc>https://equalsmoney.com/faqs/how-can-i-view-card-transactions</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-27-10-23</loc>
+		<loc>https://equalsmoney.com/blog/how-to-write-an-expense-policy-our-guide</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/sending-money-to-international-students-in-france</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/rationalfx-enters-special-administration-your-next-steps</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-14-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/currency-outlook-09-10-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-27-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/travel-industry-solutions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-24-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-21-11-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/gbpusd-q2-2023</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/blog/inheriting-stocks-and-shares-from-overseas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-05-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-04-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/safeguarding</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/transitioning-from-petty-cash-to-equals-moneys-prepaid-expense-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-15-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/equals-money-sponsors-the-sale-sharks-business-club</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/single-sign-on</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/market-report-25-09-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/currency-outlook-09-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-17-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/selling-your-business-to-an-overseas-buyer</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/selling-property-in-greece-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/interim-results-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/production-tailored-solutions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/the-ultimate-guide-to-moving-your-business-overseas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-28-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/people/natalyia-forbes</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/top-5-use-cases-for-a-multi-currency-account</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/buying-a-car-for-your-holiday-home</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-18-08-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/taking-care-of-your-business-fx-requirements-while-on-holiday</loc>
@@ -2275,166 +2341,64 @@
 		<loc>https://equalsmoney.com/blog/market-report-29-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/travel-industry-solutions</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/selling-your-business-to-an-overseas-buyer</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/rationalfx-enters-special-administration-your-next-steps</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/selling-property-in-greece-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/top-5-use-cases-for-a-multi-currency-account</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-15-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/people/natalyia-forbes</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-21-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/eurusd-q2-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/interim-results-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/single-sign-on</loc>
+		<loc>https://equalsmoney.com/blog/market-report-26-09-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/land-transaction-tax</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/inheriting-stocks-and-shares-from-overseas</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/the-ultimate-guide-to-moving-your-business-overseas</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-12-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-03-08-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-19-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/resuming-production-after-the-wga-strike-finances-fx</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-13-07-23</loc>
-	</url>
-	<url>
 		<loc>https://equalsmoney.com/blog/uk-business-prepaid-mastercard-the-equals-money-guide</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-07-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-16-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-26-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-17-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-18-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-car-for-your-holiday-home</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-19-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/xero/how-to-create-and-customise-invoice-templates-in-xero</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-03-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/fx-key-dates-october-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/production-tailored-solutions</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/how-to-spend-less-time-closing-financial-month-end</loc>
+		<loc>https://equalsmoney.com/blog/eurusd-q2-2023</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-24-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-09-08-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-04-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-28-06-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-13-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/hamer-and-hamer-acquisition</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-08-09-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-12-09-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-07-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/what-is-expense-management-software</loc>
+		<loc>https://equalsmoney.com/blog/market-report-04-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-06-11-23</loc>
+		<loc>https://equalsmoney.com/blog/managing-finances-whilst-studying-abroad</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-14-9-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-05-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-10-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-05-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/hospitality-tailored-solutions</loc>
+		<loc>https://equalsmoney.com/blog/resuming-production-after-the-wga-strike-finances-fx</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-09-08-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/currency-peg</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-business-overseas-why-equals-moneys-international-transfers-are-your-best-ally</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/international-payments-for-smes-simplify-your-global-business</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-15-9-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-21-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/a-comprehensive-guide-to-moving-and-working-in-singapore</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/consumers-losing-on-poor-exchange-rates-due-to-lack-of-travel-insight</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/industry/media-agencies</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/selling-property-in-france-from-the-uk</loc>
+		<loc>https://equalsmoney.com/blog/market-report-19-07-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/currency-outlook-20-11-23</loc>
@@ -2443,184 +2407,208 @@
 		<loc>https://equalsmoney.com/blog/market-report-07-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bin-sponsorship</loc>
+		<loc>https://equalsmoney.com/blog/how-to-spend-less-time-closing-financial-month-end</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/managing-finances-whilst-studying-abroad</loc>
+		<loc>https://equalsmoney.com/xero/how-to-create-and-customise-invoice-templates-in-xero</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/international-payments-for-smes-simplify-your-global-business</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-24-05-23</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/blog/fx-key-dates-october-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/industry/media-agencies</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-15-9-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/a-comprehensive-guide-to-moving-and-working-in-singapore</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/hospitality-tailored-solutions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/buying-a-business-overseas-why-equals-moneys-international-transfers-are-your-best-ally</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-21-06-23</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/market-report-13-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/how-to-buy-a-ferrari-in-italy</loc>
+		<loc>https://equalsmoney.com/blog/market-report-08-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-12-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/currency-outlook-13-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/what-is-currency-hedging</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/fy-2022-final-results</loc>
+		<loc>https://equalsmoney.com/blog/consumers-losing-on-poor-exchange-rates-due-to-lack-of-travel-insight</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-12-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-22-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/expense-management-solutions-the-prepaid-expense-card</loc>
+		<loc>https://equalsmoney.com/blog/what-is-expense-management-software</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/receiving-inheritance-money-from-abroad-in-the-uk</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/xero/how-to-manage-users-on-xero</loc>
+		<loc>https://equalsmoney.com/blog/market-report-06-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/post-strike-film-tv-expenses-navigating-the-financial-aftermath</loc>
+		<loc>https://equalsmoney.com/financial-glossary/bin-sponsorship</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/simplifying-your-international-move-back-to-the-uk</loc>
+		<loc>https://equalsmoney.com/blog/what-is-currency-hedging</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-23-10-23</loc>
+		<loc>https://equalsmoney.com/blog/hamer-and-hamer-acquisition</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/rising-cost-of-business-hedging</loc>
+		<loc>https://equalsmoney.com/blog/market-report-14-9-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-14-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-02-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/expense-cards-for-contract-employees</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/headline-inflation</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/why-every-business-should-consider-a-multicurrency-business-account</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-28-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-8-12-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/cross-currency</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-02-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/how-do-multi-currency-accounts-work</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-25-05-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-20-11-23</loc>
+		<loc>https://equalsmoney.com/blog/selling-property-in-france-from-the-uk</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/understanding-escrow-accounts-what-you-need-to-know</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-03-07-23</loc>
+		<loc>https://equalsmoney.com/blog/fy-2022-final-results</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-8-12-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/simplifying-your-international-move-back-to-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/expense-management-solutions-the-prepaid-expense-card</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-23-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-22-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-02-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/rising-cost-of-business-hedging</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/currency-outlook-13-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/how-to-buy-a-ferrari-in-italy</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-14-07-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/xero/how-to-manage-users-on-xero</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-25-05-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-12-10-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-26-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bank-identification-number</loc>
+		<loc>https://equalsmoney.com/blog/how-do-multi-currency-accounts-work</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/the-sweet-spot-between-a-bank-and-a-fintech</loc>
+		<loc>https://equalsmoney.com/blog/why-every-business-should-consider-a-multicurrency-business-account</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-03-07-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/eurusd-q1-2023</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-21-09-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/headline-inflation</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bretton-woods-system</loc>
+		<loc>https://equalsmoney.com/blog/market-report-20-11-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/relocating-pets-finances-and-fx</loc>
+		<loc>https://equalsmoney.com/blog/market-report-02-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-29-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-03-11-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-28-09-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/iwd-the-women-of-equals-money</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-21-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/five-quick-wins-for-managing-business-expenses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-23-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-27-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/why-should-i-use-a-currency-exchange-expert</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/equals-vs-your-bank</loc>
+		<loc>https://equalsmoney.com/financial-glossary/bretton-woods-system</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-20-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-yacht-for-charter</loc>
+		<loc>https://equalsmoney.com/blog/equals-vs-your-bank</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-24-08-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/cross-currency</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/best-way-to-pay-suppliers-in-the-usa-a-guide-for-uk-businesses</loc>
+		<loc>https://equalsmoney.com/blog/post-strike-film-tv-expenses-navigating-the-financial-aftermath</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/what-is-a-virtual-card</loc>
+		<loc>https://equalsmoney.com/blog/five-quick-wins-for-managing-business-expenses</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/gbpusd-q3-2023</loc>
+		<loc>https://equalsmoney.com/financial-glossary/bank-identification-number</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/how-to-plan-a-wedding-abroad-finances-fx</loc>
+		<loc>https://equalsmoney.com/blog/expense-cards-for-contract-employees</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-28-11-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-27-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/the-sweet-spot-between-a-bank-and-a-fintech</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-06-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-08-06-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-21-09-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-21-08-23</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/blog/market-report-21-07-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-29-09-23</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/what-is-an-ach-payment</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-23-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-03-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/best-way-to-pay-suppliers-in-the-usa-a-guide-for-uk-businesses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-30-11-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/currency-outlook-27-11-23</loc>
@@ -2629,34 +2617,88 @@
 		<loc>https://equalsmoney.com/blog/market-report-23-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/global-business/best-multi-currency-business-accounts</loc>
+		<loc>https://equalsmoney.com/blog/how-to-plan-a-wedding-abroad-finances-fx</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-30-11-23</loc>
+		<loc>https://equalsmoney.com/blog/relocating-pets-finances-and-fx</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-24-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/what-is-a-virtual-card</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/why-should-i-use-a-currency-exchange-expert</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-26-05-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-30-06-23</loc>
+		<loc>https://equalsmoney.com/blog/buying-a-yacht-for-charter</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/eurusd-q3-2023</loc>
+		<loc>https://equalsmoney.com/financial-glossary/anti-coercion-instrument</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/iban/iban-checker</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/blog/cosmetic-treatments-in-turkey-funding-fx</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-08-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/eurusd-q3-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/gbpusd-q3-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-30-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/multi-currency-accounts-for-import-export-businesses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/global-business/best-multi-currency-business-accounts</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-15-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-28-11-23</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/prepaid-cards-for-business-expenses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-25-07-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/common-sme-pain-points</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-08-06-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/reduce-month-end</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/gbpeur-q2-2023</loc>
+		<loc>https://equalsmoney.com/blog/mission-update-2022</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-25-07-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-10-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-11-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/the-best-fuel-cards-alternative-for-uk-businesses</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/paying-medical-expenses-abroad</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-28-07-23</loc>
@@ -2665,40 +2707,13 @@
 		<loc>https://equalsmoney.com/blog/multi-currency-accounts</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-15-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-7-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/anti-coercion-instrument</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-10-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-08-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/the-best-fuel-cards-alternative-for-uk-businesses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/multi-currency-accounts-for-import-export-businesses</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/common-sme-pain-points</loc>
+		<loc>https://equalsmoney.com/blog/market-report-26-07-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/luxury-fashion-shopping-abroad-a-guide-to-fx</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-09-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/cosmetic-treatments-in-turkey-funding-fx</loc>
+		<loc>https://equalsmoney.com/blog/market-report-01-06-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-16-10-23</loc>
@@ -2707,163 +2722,121 @@
 		<loc>https://equalsmoney.com/blog/market-report-26-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/stablecoin</loc>
+		<loc>https://equalsmoney.com/blog/market-report-11-7-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-02-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-10-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/paying-medical-expenses-abroad</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/business-prepaid-vs-credit-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-26-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-01-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-17-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/iwd-breaking-the-bias-w-equals-money</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/the-ultimate-guide-to-team-expense-cards</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/gbpusd-q1-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/mission-update-2022</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/marine-industry-solutions</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/how-can-i-check-if-there-are-transactions-that-i-need-to-annotate</loc>
+		<loc>https://equalsmoney.com/blog/market-report-09-10-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/baas</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/bonds</loc>
+		<loc>https://equalsmoney.com/blog/business-prepaid-vs-credit-cards</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/how-to-become-a-digital-nomad</loc>
+		<loc>https://equalsmoney.com/blog/gbpeur-q2-2023</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-30-05-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/research-shows-82-of-uk-workers-suffer-from-pain-due-to-work-stress</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/how-to-save-money-when-making-large-international-business-payments</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-29-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-11-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/planning-your-dream-wedding-abroad</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/selling-property-abroad-getting-out-of-a-timeshare</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-16-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/us-downgraded-to-negative</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-09-11-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/equals-pride-2022</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-23-05-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-01-12-23</loc>
+		<loc>https://equalsmoney.com/blog/iwd-breaking-the-bias-w-equals-money</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-03-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/special-drawing-rights</loc>
+		<loc>https://equalsmoney.com/blog/market-report-04-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-22-08-23</loc>
+		<loc>https://equalsmoney.com/blog/the-ultimate-guide-to-team-expense-cards</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-22-11-23</loc>
+		<loc>https://equalsmoney.com/blog/marine-industry-solutions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-10-07-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/planning-your-dream-wedding-abroad</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-17-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/faqs/how-can-i-check-if-there-are-transactions-that-i-need-to-annotate</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/stablecoin</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-09-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-02-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-23-05-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/gbpusd-q1-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-16-06-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/health-industry-solutions</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/best-way-to-pay-suppliers-in-china-a-practical-guide</loc>
+		<loc>https://equalsmoney.com/financial-glossary/special-drawing-rights</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-27-06-23</loc>
+		<loc>https://equalsmoney.com/financial-glossary/bonds</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/buying-a-ski-chalet-in-austria</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/xero/how-to-invoice-in-xero</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-20-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-05-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/economic-calendar/events/eu-ppi</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/bespoke-hedging-your-key-to-smart-currency-management</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/fx-key-dates-in-november-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-17-08-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/equals-awarded-iso-iec-27001-certification</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/financial-glossary/core-pce</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-17-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-18-07-23</loc>
+		<loc>https://equalsmoney.com/blog/how-to-save-money-when-making-large-international-business-payments</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-30-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/oonex-acquisition</loc>
+		<loc>https://equalsmoney.com/blog/market-report-29-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-22-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/selling-property-abroad-getting-out-of-a-timeshare</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-11-09-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/xero/how-to-invoice-in-xero</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-01-12-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-01-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/research-shows-82-of-uk-workers-suffer-from-pain-due-to-work-stress</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-17-07-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/how-to-become-a-digital-nomad</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/fx-key-dates-in-november-2023</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/equals-pride-2022</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/us-downgraded-to-negative</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-30-05-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/buying-abroad/property/how-to-secure-a-uk-mortgage-for-property-abroad-our-guide</loc>
@@ -2872,211 +2845,184 @@
 		<loc>https://equalsmoney.com/faqs/why-cant-i-see-my-spend-card</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/how-to-create-a-balance</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/faqs/how-to-change-the-balance-an-equals-money-card-draws-from</loc>
+		<loc>https://equalsmoney.com/faqs/what-currencies-do-you-offer-for-international-payments-e8c20</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/faqs/what-is-a-forward-contract-deposit-b9b80</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/what-does-reverted-mean</loc>
+		<loc>https://equalsmoney.com/faqs/how-do-i-annotate-a-transaction</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/what-currencies-do-you-offer-for-international-payments-e8c20</loc>
+		<loc>https://equalsmoney.com/faqs/how-to-change-the-balance-an-equals-money-card-draws-from</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/faqs/how-to-make-a-single-payment</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/how-do-i-annotate-a-transaction</loc>
+		<loc>https://equalsmoney.com/faqs/how-to-create-a-balance</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-07-09-23</loc>
+		<loc>https://equalsmoney.com/faqs/what-does-reverted-mean</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-07-06-23</loc>
+		<loc>https://equalsmoney.com/blog/market-report-17-08-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/core-inflation</loc>
+		<loc>https://equalsmoney.com/blog/best-way-to-pay-suppliers-in-china-a-practical-guide</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/multi-currency-accounting-navigating-international-business-with-equals-money</loc>
+		<loc>https://equalsmoney.com/blog/market-report-27-06-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/can-i-filter-on-annotated-unannotated-transactions</loc>
+		<loc>https://equalsmoney.com/economic-calendar/events/eu-ppi</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-14-06-23</loc>
+		<loc>https://equalsmoney.com/blog/oonex-acquisition</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/currencies/majors/hkd</loc>
+		<loc>https://equalsmoney.com/blog/market-report-05-09-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/can-i-send-payments-online</loc>
+		<loc>https://equalsmoney.com/blog/bespoke-hedging-your-key-to-smart-currency-management</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/approved-email-domains</loc>
+		<loc>https://equalsmoney.com/blog/market-report-20-07-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/faqs/what-are-attachments</loc>
+		<loc>https://equalsmoney.com/blog/market-report-22-11-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/core-pce</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/buying-a-ski-chalet-in-austria</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/equals-awarded-iso-iec-27001-certification</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-18-07-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/faqs/split-annotations</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/introducing-shared-cards</loc>
+		<loc>https://equalsmoney.com/faqs/what-are-attachments</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/personal-onboarding</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/key-features-of-a-multi-currency-account</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-31-07-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/what-are-prepaid-expenses-understanding-and-managing-them</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-06-06-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-18-09-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-19-10-23</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/top-5-mistakes-to-avoid-when-receiving-inheritance-money-from-overseas</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/blog/market-report-04-08-23</loc>
+		<loc>https://equalsmoney.com/faqs/approved-email-domains</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-25-10-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-29-08-23</loc>
+		<loc>https://equalsmoney.com/blog/multi-currency-accounting-navigating-international-business-with-equals-money</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/what-are-prepaid-expenses-understanding-and-managing-them</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-31-07-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-14-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-04-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-19-10-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-07-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/usdc</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/personal-onboarding</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-07-12-23</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/blog/market-report-15-11-23</loc>
+		<loc>https://equalsmoney.com/faqs/can-i-filter-on-annotated-unannotated-transactions</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/key-features-of-a-multi-currency-account</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/top-5-mistakes-to-avoid-when-receiving-inheritance-money-from-overseas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/core-inflation</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-06-06-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-07-09-23</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/manufacturing-tailored-solutions</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/eurostat</loc>
+		<loc>https://equalsmoney.com/faqs/can-i-send-payments-online</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/financial-glossary/caas</loc>
+		<loc>https://equalsmoney.com/blog/introducing-shared-cards</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-29-08-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/financial-glossary/eurostat</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/selling-a-property-in-australia-from-the-uk</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/financial-glossary/caas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-18-09-23</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/blog/market-report-15-11-23</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/blog/fx-key-dates-in-december-2023</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/securing-a-mortgage-for-overseas-properties</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/buying-abroad/property/tax-implications-for-owning-property-abroad-a-guide-for-uk-citizens</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-spain</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-rolex-in-switzerland-the-ultimate-guide</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/currencies/majors/sgd</loc>
+		<loc>https://equalsmoney.com/buying-abroad/property/securing-a-mortgage-for-overseas-properties</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/faqs/what-are-individual-cards</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-france</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-sweden-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/buying-an-omega-watch-in-dubai</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-virginia-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-abroad-to-rent-out-our-guide</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-morocco-your-ultimate-guide</loc>
-	</url>
-	<url>
 		<loc>https://equalsmoney.com/faqs/how-long-will-it-take-for-my-equals-money-card-to-arrive</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-australia-from-the-uk</loc>
+		<loc>https://equalsmoney.com/buying-abroad</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-breitling-watch-in-dubai</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-dubai</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-ireland</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-switzerland</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-america</loc>
+		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-rolex-in-switzerland-the-ultimate-guide</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-hong-kong-a-guide-for-uk-buyers</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-abroad-for-airbnb-listing</loc>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-thailand-from-the-uk</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-cartier-watch-in-dubai</loc>
+		<loc>https://equalsmoney.com/buying-abroad/watches/buying-an-omega-watch-in-dubai</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-dubai</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-rolex-in-dubai-your-guide-to-luxury-purchases</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/buying-an-audemars-piguet-watch-in-dubai</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/purchasing-property-in-italy-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/the-ultimate-guide-to-buying-watches-in-the-us-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/uk-import-duty-on-watches-from-the-usa-a-comprehensive-guide</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-canada-from-the-uk</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/property-transfer-tax-in-portugal-what-you-need-to-know</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/buying-abroad/watches/do-luxury-watches-cost-less-overseas</loc>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-dubai</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-portugal</loc>
@@ -3085,7 +3031,13 @@
 		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-japan-from-the-uk</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-north-cyprus-from-the-uk</loc>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-abroad-to-rent-out-our-guide</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-switzerland</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/uk-import-duty-on-watches-from-the-usa-a-comprehensive-guide</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-greece-from-the-uk</loc>
@@ -3094,19 +3046,76 @@
 		<loc>https://equalsmoney.com/buying-abroad/watches/the-best-countries-to-buy-luxury-watches</loc>
 	</url>
 	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-canada-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-ireland</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-america</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-rolex-in-dubai-your-guide-to-luxury-purchases</loc>
+	</url>
+	<url>
 		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-new-zealand-from-the-uk</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-thailand-from-the-uk</loc>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-sweden-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-cartier-watch-in-dubai</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/are-watches-cheaper-in-dubai</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-france</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/purchasing-property-in-italy-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/the-ultimate-guide-to-buying-watches-in-the-us-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-australia-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-morocco-your-ultimate-guide</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-in-north-cyprus-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/buying-an-audemars-piguet-watch-in-dubai</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/buying-a-breitling-watch-in-dubai</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/property-transfer-tax-in-portugal-what-you-need-to-know</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/watches/do-luxury-watches-cost-less-overseas</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-virginia-from-the-uk</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-a-property-in-spain</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/buying-abroad/property/buying-property-abroad-for-airbnb-listing</loc>
+	</url>
+	<url>
+		<loc>https://equalsmoney.com/industry/marine</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/en-be/partnerships</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/industry/health-and-care</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/industry/marine</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/faqs/who-can-approve-funds-requests</loc>
