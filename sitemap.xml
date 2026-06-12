@@ -22,10 +22,7 @@
 		<loc>https://equalsmoney.com/enterprise/api</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/accounts/business-current-account</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/accounts/start-up-business-account</loc>
+		<loc>https://equalsmoney.com/business-accounts/business-current-account</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/environment</loc>
@@ -52,10 +49,10 @@
 		<loc>https://equalsmoney.com/use-cases/travel/tour-operators</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/payments/international-payments</loc>
+		<loc>https://equalsmoney.com/business-payments/international-payments</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/accounts/multi-currency-business-account</loc>
+		<loc>https://equalsmoney.com/business-accounts/multi-currency-business-account</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-calculators</loc>
@@ -76,7 +73,7 @@
 		<loc>https://equalsmoney.com/expense-cards/prepaid-business-cards</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/payments/domestic-payments</loc>
+		<loc>https://equalsmoney.com/business-payments/domestic</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/expense-cards/corporate-cards</loc>
@@ -91,7 +88,7 @@
 		<loc>https://equalsmoney.com/industry/travel</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/payments/bulk-payments</loc>
+		<loc>https://equalsmoney.com/business-payments/mass-payments</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/cookie-policy</loc>
@@ -130,7 +127,7 @@
 		<loc>https://equalsmoney.com/blog</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/payments/currency-forward-contracts</loc>
+		<loc>https://equalsmoney.com/corporate-fx/fx-forward-contract</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/en-be</loc>
@@ -146,9 +143,6 @@
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/get-started</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/use-cases/ecommerce</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/banking-as-a-service</loc>
@@ -223,7 +217,7 @@
 		<loc>https://equalsmoney.com/es-es</loc>
 	</url>
 	<url>
-		<loc>https://equalsmoney.com/payments/corporate-foreign-exchange</loc>
+		<loc>https://equalsmoney.com/corporate-fx</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/currencies/forecasts/gbpusd</loc>
@@ -287,9 +281,6 @@
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/economic-calendar/events/cpih</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/international-payments/register-now</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-calculators/corporation-tax-calculator-uk</loc>
@@ -557,9 +548,6 @@
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/blog/market-report-28-02-24</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/international-payments/rate-watch</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/business-expenses/accrual-accounting</loc>
@@ -1844,9 +1832,6 @@
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/currencies/majors/huf</loc>
-	</url>
-	<url>
-		<loc>https://equalsmoney.com/passport-to-growth</loc>
 	</url>
 	<url>
 		<loc>https://equalsmoney.com/financial-glossary/s-p-500-index</loc>

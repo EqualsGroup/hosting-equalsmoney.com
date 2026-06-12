@@ -27,14 +27,6 @@
     <xhtml:link rel="alternate" hreflang="us" href="https://equalsmoney.com/us/contact"/>
   </url>
   <url>
-    <loc>https://equalsmoney.com/account-features/control-spend</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/account-features/control-spend"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/controle-des-depenses"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/control-de-gastos"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/budgetbeheer"/>
-    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/control-spend"/>
-  </url>
-  <url>
     <loc>https://equalsmoney.com/cookie-policy</loc>
     <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/cookie-policy"/>
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/politique-de-cookies"/>
@@ -53,21 +45,19 @@
     <xhtml:link rel="alternate" hreflang="us" href="https://equalsmoney.com/us/expense-management"/>
   </url>
   <url>
-    <loc>https://equalsmoney.com/international-payments</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/international-payments"/>
+    <loc>https://equalsmoney.com/business-payments/international-payments</loc>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/business-payments/international-payments"/>
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/paiements-internationaux"/>
     <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/pagos-internacionales"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/internationale-betalingen"/>
-    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/international-payments"/>
-    <xhtml:link rel="alternate" hreflang="us" href="https://equalsmoney.com/us/international-payments"/>
+    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/business-payments/international-payments"/>
   </url>
   <url>
-    <loc>https://equalsmoney.com/accounts/multi-currency-account</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/accounts/multi-currency-account"/>
+    <loc>https://equalsmoney.com/business-accounts/multi-currency-business-account</loc>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://equalsmoney.com/business-accounts/multi-currency-business-account"/>
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/compte-multidevise"/>
     <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/cuenta-multidivisa"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/multi-valutarekening"/>
-    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/multi-currency-account"/>
   </url>
   <url>
     <loc>https://equalsmoney.com/privacy</loc>
@@ -116,8 +106,8 @@
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/cartes-de-frais-professionnels-prepayees"/>
     <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/tarjetas-de-gastos-prepagadas"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/prepaid-zakelijke-onkostenkaarten"/>
-    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/prepaid-business-cards"/>
-    <xhtml:link rel="alternate" hreflang="us" href="https://equalsmoney.com/us/prepaid-expense-cards"/>
+    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/expense-cards/prepaid-business-cards"/>
+    <xhtml:link rel="alternate" hreflang="us" href="https://equalsmoney.com/us/prepaid-business-cards"/>
   </url>
   <url>
     <loc>https://equalsmoney.com/expense-cards/business-debit-cards</loc>
@@ -125,6 +115,6 @@
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://equalsmoney.com/fr-fr/cartes-de-debit-professionnelles"/>
     <xhtml:link rel="alternate" hreflang="es-es" href="https://equalsmoney.com/es-es/tarjetas-de-debito-comerciales"/>
     <xhtml:link rel="alternate" hreflang="nl-nl" href="https://equalsmoney.com/nl-nl/zakelijke-betaalkaarten"/>
-    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/business-debit-cards"/>
+    <xhtml:link rel="alternate" hreflang="en-be" href="https://equalsmoney.com/en-be/expense-cards/business-debit-cards"/>
   </url>
 </urlset>
